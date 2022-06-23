@@ -1,0 +1,2335 @@
+image_id,class_name,class_id,x_min,y_min,x_max,y_max
+data/train/frame_0.jpg,Allianz,1,0,0,95,24
+data/train/frame_1.jpg,No finding,0,0,0,1,1
+data/train/frame_2.jpg,Allianz,1,0,200,95,224
+data/train/frame_3.jpg,Allianz,1,0,400,95,424
+data/train/frame_4.jpg,Allianz,1,200,0,295,24
+data/train/frame_5.jpg,Allianz,1,200,200,295,224
+data/train/frame_6.jpg,Allianz,1,200,400,295,424
+data/train/frame_7.jpg,Allianz,1,400,0,495,24
+data/train/frame_8.jpg,Allianz,1,400,200,495,224
+data/train/frame_9.jpg,Allianz,1,400,400,495,424
+data/train/frame_10.jpg,Allianz,1,600,0,695,24
+data/train/frame_11.jpg,No finding,0,0,0,1,1
+data/train/frame_12.jpg,Allianz,1,600,200,695,224
+data/train/frame_13.jpg,Allianz,1,600,400,695,424
+data/train/frame_14.jpg,Allianz,1,800,0,895,24
+data/train/frame_15.jpg,Allianz,1,800,200,895,224
+data/train/frame_16.jpg,Allianz,1,800,400,895,424
+data/train/frame_17.jpg,Allianz,1,0,0,95,24
+data/train/frame_18.jpg,Allianz,1,0,200,95,224
+data/train/frame_19.jpg,Allianz,1,0,400,95,424
+data/train/frame_20.jpg,Allianz,1,200,0,295,24
+data/train/frame_21.jpg,No finding,0,0,0,1,1
+data/train/frame_22.jpg,Allianz,1,200,200,295,224
+data/train/frame_23.jpg,Allianz,1,200,400,295,424
+data/train/frame_24.jpg,Allianz,1,400,0,495,24
+data/train/frame_25.jpg,Allianz,1,400,200,495,224
+data/train/frame_26.jpg,Allianz,1,400,400,495,424
+data/train/frame_27.jpg,Allianz,1,600,0,695,24
+data/train/frame_28.jpg,Allianz,1,600,200,695,224
+data/train/frame_29.jpg,Allianz,1,600,400,695,424
+data/train/frame_30.jpg,Allianz,1,800,0,895,24
+data/train/frame_31.jpg,No finding,0,0,0,1,1
+data/train/frame_32.jpg,Allianz,1,800,200,895,224
+data/train/frame_33.jpg,Allianz,1,800,400,895,424
+data/train/frame_34.jpg,Allianz,1,0,0,95,24
+data/train/frame_35.jpg,Allianz,1,0,200,95,224
+data/train/frame_36.jpg,Allianz,1,0,400,95,424
+data/train/frame_37.jpg,Allianz,1,200,0,295,24
+data/train/frame_38.jpg,Allianz,1,200,200,295,224
+data/train/frame_39.jpg,Allianz,1,200,400,295,424
+data/train/frame_40.jpg,Allianz,1,400,0,495,24
+data/train/frame_41.jpg,No finding,0,0,0,1,1
+data/train/frame_42.jpg,Allianz,1,400,200,495,224
+data/train/frame_43.jpg,Allianz,1,400,400,495,424
+data/train/frame_44.jpg,Allianz,1,600,0,695,24
+data/train/frame_45.jpg,Allianz,1,600,200,695,224
+data/train/frame_46.jpg,Allianz,1,600,400,695,424
+data/train/frame_47.jpg,Allianz,1,800,0,895,24
+data/train/frame_48.jpg,Allianz,1,800,200,895,224
+data/train/frame_49.jpg,Allianz,1,800,400,895,424
+data/train/frame_50.jpg,Allianz,1,0,0,95,24
+data/train/frame_51.jpg,No finding,0,0,0,1,1
+data/train/frame_52.jpg,Allianz,1,0,200,95,224
+data/train/frame_53.jpg,Allianz,1,0,400,95,424
+data/train/frame_54.jpg,Allianz,1,200,0,295,24
+data/train/frame_55.jpg,Allianz,1,200,200,295,224
+data/train/frame_56.jpg,Allianz,1,200,400,295,424
+data/train/frame_57.jpg,Allianz,1,400,0,495,24
+data/train/frame_58.jpg,Allianz,1,400,200,495,224
+data/train/frame_59.jpg,Allianz,1,400,400,495,424
+data/train/frame_60.jpg,Allianz,1,600,0,695,24
+data/train/frame_61.jpg,No finding,0,0,0,1,1
+data/train/frame_62.jpg,Allianz,1,600,200,695,224
+data/train/frame_63.jpg,Allianz,1,600,400,695,424
+data/train/frame_64.jpg,Allianz,1,800,0,895,24
+data/train/frame_65.jpg,Allianz,1,800,200,895,224
+data/train/frame_66.jpg,Allianz,1,800,400,895,424
+data/train/frame_67.jpg,Allianz,1,0,0,95,24
+data/train/frame_68.jpg,Allianz,1,0,200,95,224
+data/train/frame_69.jpg,Allianz,1,0,400,95,424
+data/train/frame_70.jpg,Allianz,1,200,0,295,24
+data/train/frame_71.jpg,No finding,0,0,0,1,1
+data/train/frame_72.jpg,Allianz,1,200,200,295,224
+data/train/frame_73.jpg,Allianz,1,200,400,295,424
+data/train/frame_74.jpg,Allianz,1,400,0,495,24
+data/train/frame_75.jpg,Allianz,1,400,200,495,224
+data/train/frame_76.jpg,Allianz,1,400,400,495,424
+data/train/frame_77.jpg,Allianz,1,600,0,695,24
+data/train/frame_78.jpg,Allianz,1,600,200,695,224
+data/train/frame_79.jpg,Allianz,1,600,400,695,424
+data/train/frame_80.jpg,Allianz,1,800,0,895,24
+data/train/frame_81.jpg,No finding,0,0,0,1,1
+data/train/frame_82.jpg,Allianz,1,800,200,895,224
+data/train/frame_83.jpg,Allianz,1,800,400,895,424
+data/train/frame_84.jpg,Allianz,1,0,0,95,24
+data/train/frame_85.jpg,Allianz,1,0,200,95,224
+data/train/frame_86.jpg,Allianz,1,0,400,95,424
+data/train/frame_87.jpg,Allianz,1,200,0,295,24
+data/train/frame_88.jpg,Allianz,1,200,200,295,224
+data/train/frame_89.jpg,Allianz,1,200,400,295,424
+data/train/frame_90.jpg,Allianz,1,400,0,495,24
+data/train/frame_91.jpg,No finding,0,0,0,1,1
+data/train/frame_92.jpg,Allianz,1,400,200,495,224
+data/train/frame_93.jpg,Allianz,1,400,400,495,424
+data/train/frame_94.jpg,Allianz,1,600,0,695,24
+data/train/frame_95.jpg,Allianz,1,600,200,695,224
+data/train/frame_96.jpg,Allianz,1,600,400,695,424
+data/train/frame_97.jpg,Allianz,1,800,0,895,24
+data/train/frame_98.jpg,Allianz,1,800,200,895,224
+data/train/frame_99.jpg,Allianz,1,800,400,895,424
+data/train/frame_100.jpg,Allianz,1,0,0,95,24
+data/train/frame_101.jpg,No finding,0,0,0,1,1
+data/train/frame_102.jpg,Allianz,1,0,200,95,224
+data/train/frame_103.jpg,Allianz,1,0,400,95,424
+data/train/frame_104.jpg,Allianz,1,200,0,295,24
+data/train/frame_105.jpg,Allianz,1,200,200,295,224
+data/train/frame_106.jpg,Allianz,1,200,400,295,424
+data/train/frame_107.jpg,Allianz,1,400,0,495,24
+data/train/frame_108.jpg,Allianz,1,400,200,495,224
+data/train/frame_109.jpg,Allianz,1,400,400,495,424
+data/train/frame_110.jpg,Allianz,1,600,0,695,24
+data/train/frame_111.jpg,No finding,0,0,0,1,1
+data/train/frame_112.jpg,Allianz,1,600,200,695,224
+data/train/frame_113.jpg,Allianz,1,600,400,695,424
+data/train/frame_114.jpg,Allianz,1,800,0,895,24
+data/train/frame_115.jpg,Allianz,1,800,200,895,224
+data/train/frame_116.jpg,Allianz,1,800,400,895,424
+data/train/frame_117.jpg,Allianz,1,0,0,95,24
+data/train/frame_118.jpg,Allianz,1,0,200,95,224
+data/train/frame_119.jpg,Allianz,1,0,400,95,424
+data/train/frame_120.jpg,Allianz,1,200,0,295,24
+data/train/frame_121.jpg,No finding,0,0,0,1,1
+data/train/frame_122.jpg,Allianz,1,200,200,295,224
+data/train/frame_123.jpg,Allianz,1,200,400,295,424
+data/train/frame_124.jpg,Allianz,1,400,0,495,24
+data/train/frame_125.jpg,Allianz,1,400,200,495,224
+data/train/frame_126.jpg,Allianz,1,400,400,495,424
+data/train/frame_127.jpg,Allianz,1,600,0,695,24
+data/train/frame_128.jpg,Allianz,1,600,200,695,224
+data/train/frame_129.jpg,Allianz,1,600,400,695,424
+data/train/frame_130.jpg,Allianz,1,800,0,895,24
+data/train/frame_131.jpg,No finding,0,0,0,1,1
+data/train/frame_132.jpg,Allianz,1,800,200,895,224
+data/train/frame_133.jpg,Allianz,1,800,400,895,424
+data/train/frame_134.jpg,Allianz,1,0,0,95,24
+data/train/frame_135.jpg,Allianz,1,0,200,95,224
+data/train/frame_136.jpg,Allianz,1,0,400,95,424
+data/train/frame_137.jpg,Allianz,1,200,0,295,24
+data/train/frame_138.jpg,Allianz,1,200,200,295,224
+data/train/frame_139.jpg,Allianz,1,200,400,295,424
+data/train/frame_140.jpg,Allianz,1,400,0,495,24
+data/train/frame_141.jpg,No finding,0,0,0,1,1
+data/train/frame_142.jpg,Allianz,1,400,200,495,224
+data/train/frame_143.jpg,Allianz,1,400,400,495,424
+data/train/frame_144.jpg,Allianz,1,600,0,695,24
+data/train/frame_145.jpg,Allianz,1,600,200,695,224
+data/train/frame_146.jpg,Allianz,1,600,400,695,424
+data/train/frame_147.jpg,Allianz,1,800,0,895,24
+data/train/frame_148.jpg,Allianz,1,800,200,895,224
+data/train/frame_149.jpg,Allianz,1,800,400,895,424
+data/train/frame_150.jpg,Allianz,1,0,0,95,24
+data/train/frame_151.jpg,No finding,0,0,0,1,1
+data/train/frame_152.jpg,Allianz,1,0,200,95,224
+data/train/frame_153.jpg,Allianz,1,0,400,95,424
+data/train/frame_154.jpg,Allianz,1,200,0,295,24
+data/train/frame_155.jpg,Allianz,1,200,200,295,224
+data/train/frame_156.jpg,Allianz,1,200,400,295,424
+data/train/frame_157.jpg,Allianz,1,400,0,495,24
+data/train/frame_158.jpg,Allianz,1,400,200,495,224
+data/train/frame_159.jpg,Allianz,1,400,400,495,424
+data/train/frame_160.jpg,Allianz,1,600,0,695,24
+data/train/frame_161.jpg,No finding,0,0,0,1,1
+data/train/frame_162.jpg,Allianz,1,600,200,695,224
+data/train/frame_163.jpg,Allianz,1,600,400,695,424
+data/train/frame_164.jpg,Allianz,1,800,0,895,24
+data/train/frame_165.jpg,Allianz,1,800,200,895,224
+data/train/frame_166.jpg,Allianz,1,800,400,895,424
+data/train/frame_167.jpg,Allianz,1,0,0,95,24
+data/train/frame_168.jpg,Allianz,1,0,200,95,224
+data/train/frame_169.jpg,Allianz,1,0,400,95,424
+data/train/frame_170.jpg,Allianz,1,200,0,295,24
+data/train/frame_171.jpg,No finding,0,0,0,1,1
+data/train/frame_172.jpg,Allianz,1,200,200,295,224
+data/train/frame_173.jpg,Allianz,1,200,400,295,424
+data/train/frame_174.jpg,Allianz,1,400,0,495,24
+data/train/frame_175.jpg,Allianz,1,400,200,495,224
+data/train/frame_176.jpg,Allianz,1,400,400,495,424
+data/train/frame_177.jpg,Allianz,1,600,0,695,24
+data/train/frame_178.jpg,Allianz,1,600,200,695,224
+data/train/frame_179.jpg,Allianz,1,600,400,695,424
+data/train/frame_180.jpg,Allianz,1,800,0,895,24
+data/train/frame_181.jpg,No finding,0,0,0,1,1
+data/train/frame_182.jpg,Allianz,1,800,200,895,224
+data/train/frame_183.jpg,Allianz,1,800,400,895,424
+data/train/frame_184.jpg,Allianz,1,0,0,95,24
+data/train/frame_185.jpg,Allianz,1,0,200,95,224
+data/train/frame_186.jpg,Allianz,1,0,400,95,424
+data/train/frame_187.jpg,Allianz,1,200,0,295,24
+data/train/frame_188.jpg,Allianz,1,200,200,295,224
+data/train/frame_189.jpg,Allianz,1,200,400,295,424
+data/train/frame_190.jpg,Allianz,1,400,0,495,24
+data/train/frame_191.jpg,No finding,0,0,0,1,1
+data/train/frame_192.jpg,Allianz,1,400,200,495,224
+data/train/frame_193.jpg,Allianz,1,400,400,495,424
+data/train/frame_194.jpg,Allianz,1,600,0,695,24
+data/train/frame_195.jpg,Allianz,1,600,200,695,224
+data/train/frame_196.jpg,Allianz,1,600,400,695,424
+data/train/frame_197.jpg,Allianz,1,800,0,895,24
+data/train/frame_198.jpg,Allianz,1,800,200,895,224
+data/train/frame_199.jpg,Allianz,1,800,400,895,424
+data/train/frame_200.jpg,Allianz,1,0,0,95,24
+data/train/frame_201.jpg,No finding,0,0,0,1,1
+data/train/frame_202.jpg,Allianz,1,0,200,95,224
+data/train/frame_203.jpg,Allianz,1,0,400,95,424
+data/train/frame_204.jpg,Allianz,1,200,0,295,24
+data/train/frame_205.jpg,Allianz,1,200,200,295,224
+data/train/frame_206.jpg,Allianz,1,200,400,295,424
+data/train/frame_207.jpg,Allianz,1,400,0,495,24
+data/train/frame_208.jpg,Allianz,1,400,200,495,224
+data/train/frame_209.jpg,Allianz,1,400,400,495,424
+data/train/frame_210.jpg,Allianz,1,600,0,695,24
+data/train/frame_211.jpg,No finding,0,0,0,1,1
+data/train/frame_212.jpg,Allianz,1,600,200,695,224
+data/train/frame_213.jpg,Allianz,1,600,400,695,424
+data/train/frame_214.jpg,Allianz,1,800,0,895,24
+data/train/frame_215.jpg,Allianz,1,800,200,895,224
+data/train/frame_216.jpg,Allianz,1,800,400,895,424
+data/train/frame_217.jpg,Allianz,1,0,0,95,24
+data/train/frame_218.jpg,Allianz,1,0,200,95,224
+data/train/frame_219.jpg,Allianz,1,0,400,95,424
+data/train/frame_220.jpg,Allianz,1,200,0,295,24
+data/train/frame_221.jpg,No finding,0,0,0,1,1
+data/train/frame_222.jpg,Allianz,1,200,200,295,224
+data/train/frame_223.jpg,Allianz,1,200,400,295,424
+data/train/frame_224.jpg,Allianz,1,400,0,495,24
+data/train/frame_225.jpg,Allianz,1,400,200,495,224
+data/train/frame_226.jpg,Allianz,1,400,400,495,424
+data/train/frame_227.jpg,Allianz,1,600,0,695,24
+data/train/frame_228.jpg,Allianz,1,600,200,695,224
+data/train/frame_229.jpg,Allianz,1,600,400,695,424
+data/train/frame_230.jpg,Allianz,1,800,0,895,24
+data/train/frame_231.jpg,No finding,0,0,0,1,1
+data/train/frame_232.jpg,Allianz,1,800,200,895,224
+data/train/frame_233.jpg,Allianz,1,800,400,895,424
+data/train/frame_234.jpg,Allianz,1,0,0,95,24
+data/train/frame_235.jpg,Allianz,1,0,200,95,224
+data/train/frame_236.jpg,Allianz,1,0,400,95,424
+data/train/frame_237.jpg,Allianz,1,200,0,295,24
+data/train/frame_238.jpg,Allianz,1,200,200,295,224
+data/train/frame_239.jpg,Allianz,1,200,400,295,424
+data/train/frame_240.jpg,Allianz,1,400,0,495,24
+data/train/frame_241.jpg,No finding,0,0,0,1,1
+data/train/frame_242.jpg,Allianz,1,400,200,495,224
+data/train/frame_243.jpg,Allianz,1,400,400,495,424
+data/train/frame_244.jpg,Allianz,1,600,0,695,24
+data/train/frame_245.jpg,Allianz,1,600,200,695,224
+data/train/frame_246.jpg,Allianz,1,600,400,695,424
+data/train/frame_247.jpg,Allianz,1,800,0,895,24
+data/train/frame_248.jpg,Allianz,1,800,200,895,224
+data/train/frame_249.jpg,Allianz,1,800,400,895,424
+data/train/frame_250.jpg,Allianz,1,0,0,95,24
+data/train/frame_251.jpg,No finding,0,0,0,1,1
+data/train/frame_252.jpg,Allianz,1,0,200,95,224
+data/train/frame_253.jpg,Allianz,1,0,400,95,424
+data/train/frame_254.jpg,Allianz,1,200,0,295,24
+data/train/frame_255.jpg,Allianz,1,200,200,295,224
+data/train/frame_256.jpg,Allianz,1,200,400,295,424
+data/train/frame_257.jpg,Allianz,1,400,0,495,24
+data/train/frame_258.jpg,Allianz,1,400,200,495,224
+data/train/frame_259.jpg,Allianz,1,400,400,495,424
+data/train/frame_260.jpg,Allianz,1,600,0,695,24
+data/train/frame_261.jpg,No finding,0,0,0,1,1
+data/train/frame_262.jpg,Allianz,1,600,200,695,224
+data/train/frame_263.jpg,Allianz,1,600,400,695,424
+data/train/frame_264.jpg,Allianz,1,800,0,895,24
+data/train/frame_265.jpg,Allianz,1,800,200,895,224
+data/train/frame_266.jpg,Allianz,1,800,400,895,424
+data/train/frame_267.jpg,Allianz,1,0,0,95,24
+data/train/frame_268.jpg,Allianz,1,0,200,95,224
+data/train/frame_269.jpg,Allianz,1,0,400,95,424
+data/train/frame_270.jpg,Allianz,1,200,0,295,24
+data/train/frame_271.jpg,No finding,0,0,0,1,1
+data/train/frame_272.jpg,Allianz,1,200,200,295,224
+data/train/frame_273.jpg,Allianz,1,200,400,295,424
+data/train/frame_274.jpg,Allianz,1,400,0,495,24
+data/train/frame_275.jpg,Allianz,1,400,200,495,224
+data/train/frame_276.jpg,Allianz,1,400,400,495,424
+data/train/frame_277.jpg,Allianz,1,600,0,695,24
+data/train/frame_278.jpg,Allianz,1,600,200,695,224
+data/train/frame_279.jpg,Allianz,1,600,400,695,424
+data/train/frame_280.jpg,Allianz,1,800,0,895,24
+data/train/frame_281.jpg,No finding,0,0,0,1,1
+data/train/frame_282.jpg,Allianz,1,800,200,895,224
+data/train/frame_283.jpg,Allianz,1,800,400,895,424
+data/train/frame_284.jpg,Allianz,1,0,0,95,24
+data/train/frame_285.jpg,Allianz,1,0,200,95,224
+data/train/frame_286.jpg,Allianz,1,0,400,95,424
+data/train/frame_287.jpg,Allianz,1,200,0,295,24
+data/train/frame_288.jpg,Allianz,1,200,200,295,224
+data/train/frame_289.jpg,Allianz,1,200,400,295,424
+data/train/frame_290.jpg,Allianz,1,400,0,495,24
+data/train/frame_291.jpg,No finding,0,0,0,1,1
+data/train/frame_292.jpg,Allianz,1,400,200,495,224
+data/train/frame_293.jpg,Allianz,1,400,400,495,424
+data/train/frame_294.jpg,Allianz,1,600,0,695,24
+data/train/frame_295.jpg,Allianz,1,600,200,695,224
+data/train/frame_296.jpg,Allianz,1,600,400,695,424
+data/train/frame_297.jpg,Allianz,1,800,0,895,24
+data/train/frame_298.jpg,Allianz,1,800,200,895,224
+data/train/frame_299.jpg,Allianz,1,800,400,895,424
+data/train/frame_300.jpg,Allianz,1,0,0,95,24
+data/train/frame_301.jpg,No finding,0,0,0,1,1
+data/train/frame_302.jpg,Allianz,1,0,200,95,224
+data/train/frame_303.jpg,Allianz,1,0,400,95,424
+data/train/frame_304.jpg,Allianz,1,200,0,295,24
+data/train/frame_305.jpg,Allianz,1,200,200,295,224
+data/train/frame_306.jpg,Allianz,1,200,400,295,424
+data/train/frame_307.jpg,Allianz,1,400,0,495,24
+data/train/frame_308.jpg,Allianz,1,400,200,495,224
+data/train/frame_309.jpg,Allianz,1,400,400,495,424
+data/train/frame_310.jpg,Allianz,1,600,0,695,24
+data/train/frame_311.jpg,No finding,0,0,0,1,1
+data/train/frame_312.jpg,Allianz,1,600,200,695,224
+data/train/frame_313.jpg,Allianz,1,600,400,695,424
+data/train/frame_314.jpg,Allianz,1,800,0,895,24
+data/train/frame_315.jpg,Allianz,1,800,200,895,224
+data/train/frame_316.jpg,Allianz,1,800,400,895,424
+data/train/frame_317.jpg,Allianz,1,0,0,95,24
+data/train/frame_318.jpg,Allianz,1,0,200,95,224
+data/train/frame_319.jpg,Allianz,1,0,400,95,424
+data/train/frame_320.jpg,Allianz,1,200,0,295,24
+data/train/frame_321.jpg,No finding,0,0,0,1,1
+data/train/frame_322.jpg,Allianz,1,200,200,295,224
+data/train/frame_323.jpg,Allianz,1,200,400,295,424
+data/train/frame_324.jpg,Allianz,1,400,0,495,24
+data/train/frame_325.jpg,Allianz,1,400,200,495,224
+data/train/frame_326.jpg,Allianz,1,400,400,495,424
+data/train/frame_327.jpg,Allianz,1,600,0,695,24
+data/train/frame_328.jpg,Allianz,1,600,200,695,224
+data/train/frame_329.jpg,Allianz,1,600,400,695,424
+data/train/frame_330.jpg,Allianz,1,800,0,895,24
+data/train/frame_331.jpg,No finding,0,0,0,1,1
+data/train/frame_332.jpg,Allianz,1,800,200,895,224
+data/train/frame_333.jpg,Allianz,1,800,400,895,424
+data/train/frame_334.jpg,Allianz,1,0,0,95,25
+data/train/frame_335.jpg,Allianz,1,0,200,95,225
+data/train/frame_336.jpg,Allianz,1,0,400,95,425
+data/train/frame_337.jpg,Allianz,1,0,600,95,625
+data/train/frame_338.jpg,Allianz,1,200,0,295,25
+data/train/frame_339.jpg,Allianz,1,200,200,295,225
+data/train/frame_340.jpg,Allianz,1,200,400,295,425
+data/train/frame_341.jpg,No finding,0,0,0,1,1
+data/train/frame_342.jpg,Allianz,1,200,600,295,625
+data/train/frame_343.jpg,Allianz,1,400,0,495,25
+data/train/frame_344.jpg,Allianz,1,400,200,495,225
+data/train/frame_345.jpg,Allianz,1,400,400,495,425
+data/train/frame_346.jpg,Allianz,1,400,600,495,625
+data/train/frame_347.jpg,Allianz,1,600,0,695,25
+data/train/frame_348.jpg,Allianz,1,600,200,695,225
+data/train/frame_349.jpg,Allianz,1,600,400,695,425
+data/train/frame_350.jpg,Allianz,1,600,600,695,625
+data/train/frame_351.jpg,No finding,0,0,0,1,1
+data/train/frame_352.jpg,Allianz,1,800,0,895,25
+data/train/frame_353.jpg,Allianz,1,800,200,895,225
+data/train/frame_354.jpg,Allianz,1,800,400,895,425
+data/train/frame_355.jpg,Allianz,1,800,600,895,625
+data/train/frame_356.jpg,Allianz,1,0,0,95,25
+data/train/frame_357.jpg,Allianz,1,0,200,95,225
+data/train/frame_358.jpg,Allianz,1,0,400,95,425
+data/train/frame_359.jpg,Allianz,1,0,600,95,625
+data/train/frame_360.jpg,Allianz,1,200,0,295,25
+data/train/frame_361.jpg,No finding,0,0,0,1,1
+data/train/frame_362.jpg,Allianz,1,200,200,295,225
+data/train/frame_363.jpg,Allianz,1,200,400,295,425
+data/train/frame_364.jpg,Allianz,1,200,600,295,625
+data/train/frame_365.jpg,Allianz,1,400,0,495,25
+data/train/frame_366.jpg,Allianz,1,400,200,495,225
+data/train/frame_367.jpg,Allianz,1,400,400,495,425
+data/train/frame_368.jpg,Allianz,1,400,600,495,625
+data/train/frame_369.jpg,Allianz,1,600,0,695,25
+data/train/frame_370.jpg,Allianz,1,600,200,695,225
+data/train/frame_371.jpg,No finding,0,0,0,1,1
+data/train/frame_372.jpg,Allianz,1,600,400,695,425
+data/train/frame_373.jpg,Allianz,1,600,600,695,625
+data/train/frame_374.jpg,Allianz,1,800,0,895,25
+data/train/frame_375.jpg,Allianz,1,800,200,895,225
+data/train/frame_376.jpg,Allianz,1,800,400,895,425
+data/train/frame_377.jpg,Allianz,1,800,600,895,625
+data/train/frame_378.jpg,Allianz,1,0,0,95,25
+data/train/frame_379.jpg,Allianz,1,0,200,95,225
+data/train/frame_380.jpg,Allianz,1,0,400,95,425
+data/train/frame_381.jpg,No finding,0,0,0,1,1
+data/train/frame_382.jpg,Allianz,1,0,600,95,625
+data/train/frame_383.jpg,Allianz,1,200,0,295,25
+data/train/frame_384.jpg,Allianz,1,200,200,295,225
+data/train/frame_385.jpg,Allianz,1,200,400,295,425
+data/train/frame_386.jpg,Allianz,1,200,600,295,625
+data/train/frame_387.jpg,Allianz,1,400,0,495,25
+data/train/frame_388.jpg,Allianz,1,400,200,495,225
+data/train/frame_389.jpg,Allianz,1,400,400,495,425
+data/train/frame_390.jpg,Allianz,1,400,600,495,625
+data/train/frame_391.jpg,No finding,0,0,0,1,1
+data/train/frame_392.jpg,Allianz,1,600,0,695,25
+data/train/frame_393.jpg,Allianz,1,600,200,695,225
+data/train/frame_394.jpg,Allianz,1,600,400,695,425
+data/train/frame_395.jpg,Allianz,1,600,600,695,625
+data/train/frame_396.jpg,Allianz,1,800,0,895,25
+data/train/frame_397.jpg,Allianz,1,800,200,895,225
+data/train/frame_398.jpg,Allianz,1,800,400,895,425
+data/train/frame_399.jpg,Allianz,1,800,600,895,625
+data/train/frame_400.jpg,Allianz,1,0,0,95,25
+data/train/frame_401.jpg,No finding,0,0,0,1,1
+data/train/frame_402.jpg,Allianz,1,0,200,95,225
+data/train/frame_403.jpg,Allianz,1,0,400,95,425
+data/train/frame_404.jpg,Allianz,1,0,600,95,625
+data/train/frame_405.jpg,Allianz,1,200,0,295,25
+data/train/frame_406.jpg,Allianz,1,200,200,295,225
+data/train/frame_407.jpg,Allianz,1,200,400,295,425
+data/train/frame_408.jpg,Allianz,1,200,600,295,625
+data/train/frame_409.jpg,Allianz,1,400,0,495,25
+data/train/frame_410.jpg,Allianz,1,400,200,495,225
+data/train/frame_411.jpg,No finding,0,0,0,1,1
+data/train/frame_412.jpg,Allianz,1,400,400,495,425
+data/train/frame_413.jpg,Allianz,1,400,600,495,625
+data/train/frame_414.jpg,Allianz,1,600,0,695,25
+data/train/frame_415.jpg,Allianz,1,600,200,695,225
+data/train/frame_416.jpg,Allianz,1,600,400,695,425
+data/train/frame_417.jpg,Allianz,1,600,600,695,625
+data/train/frame_418.jpg,Allianz,1,800,0,895,25
+data/train/frame_419.jpg,Allianz,1,800,200,895,225
+data/train/frame_420.jpg,Allianz,1,800,400,895,425
+data/train/frame_421.jpg,No finding,0,0,0,1,1
+data/train/frame_422.jpg,Allianz,1,800,600,895,625
+data/train/frame_423.jpg,Allianz,1,0,0,95,25
+data/train/frame_424.jpg,Allianz,1,0,200,95,225
+data/train/frame_425.jpg,Allianz,1,0,400,95,425
+data/train/frame_426.jpg,Allianz,1,0,600,95,625
+data/train/frame_427.jpg,Allianz,1,200,0,295,25
+data/train/frame_428.jpg,Allianz,1,200,200,295,225
+data/train/frame_429.jpg,Allianz,1,200,400,295,425
+data/train/frame_430.jpg,Allianz,1,200,600,295,625
+data/train/frame_431.jpg,No finding,0,0,0,1,1
+data/train/frame_432.jpg,Allianz,1,400,0,495,25
+data/train/frame_433.jpg,Allianz,1,400,200,495,225
+data/train/frame_434.jpg,Allianz,1,400,400,495,425
+data/train/frame_435.jpg,Allianz,1,400,600,495,625
+data/train/frame_436.jpg,Allianz,1,600,0,695,25
+data/train/frame_437.jpg,Allianz,1,600,200,695,225
+data/train/frame_438.jpg,Allianz,1,600,400,695,425
+data/train/frame_439.jpg,Allianz,1,600,600,695,625
+data/train/frame_440.jpg,Allianz,1,800,0,895,25
+data/train/frame_441.jpg,No finding,0,0,0,1,1
+data/train/frame_442.jpg,Allianz,1,800,200,895,225
+data/train/frame_443.jpg,Allianz,1,800,400,895,425
+data/train/frame_444.jpg,Allianz,1,800,600,895,625
+data/train/frame_445.jpg,Allianz,1,0,0,95,25
+data/train/frame_446.jpg,Allianz,1,0,200,95,225
+data/train/frame_447.jpg,Allianz,1,0,400,95,425
+data/train/frame_448.jpg,Allianz,1,0,600,95,625
+data/train/frame_449.jpg,Allianz,1,200,0,295,25
+data/train/frame_450.jpg,Allianz,1,200,200,295,225
+data/train/frame_451.jpg,No finding,0,0,0,1,1
+data/train/frame_452.jpg,Allianz,1,200,400,295,425
+data/train/frame_453.jpg,Allianz,1,200,600,295,625
+data/train/frame_454.jpg,Allianz,1,400,0,495,25
+data/train/frame_455.jpg,Allianz,1,400,200,495,225
+data/train/frame_456.jpg,Allianz,1,400,400,495,425
+data/train/frame_457.jpg,Allianz,1,400,600,495,625
+data/train/frame_458.jpg,Allianz,1,600,0,695,25
+data/train/frame_459.jpg,Allianz,1,600,200,695,225
+data/train/frame_460.jpg,Allianz,1,600,400,695,425
+data/train/frame_461.jpg,No finding,0,0,0,1,1
+data/train/frame_462.jpg,Allianz,1,600,600,695,625
+data/train/frame_463.jpg,Allianz,1,800,0,895,25
+data/train/frame_464.jpg,Allianz,1,800,200,895,225
+data/train/frame_465.jpg,Allianz,1,800,400,895,425
+data/train/frame_466.jpg,Allianz,1,800,600,895,625
+data/train/frame_467.jpg,Allianz,1,0,0,95,25
+data/train/frame_468.jpg,Allianz,1,0,200,95,225
+data/train/frame_469.jpg,Allianz,1,0,400,95,425
+data/train/frame_470.jpg,Allianz,1,0,600,95,625
+data/train/frame_471.jpg,No finding,0,0,0,1,1
+data/train/frame_472.jpg,Allianz,1,200,0,295,25
+data/train/frame_473.jpg,Allianz,1,200,200,295,225
+data/train/frame_474.jpg,Allianz,1,200,400,295,425
+data/train/frame_475.jpg,Allianz,1,200,600,295,625
+data/train/frame_476.jpg,Allianz,1,400,0,495,25
+data/train/frame_477.jpg,Allianz,1,400,200,495,225
+data/train/frame_478.jpg,Allianz,1,400,400,495,425
+data/train/frame_479.jpg,Allianz,1,400,600,495,625
+data/train/frame_480.jpg,Allianz,1,600,0,695,25
+data/train/frame_481.jpg,No finding,0,0,0,1,1
+data/train/frame_482.jpg,Allianz,1,600,200,695,225
+data/train/frame_483.jpg,Allianz,1,600,400,695,425
+data/train/frame_484.jpg,Allianz,1,600,600,695,625
+data/train/frame_485.jpg,Allianz,1,800,0,895,25
+data/train/frame_486.jpg,Allianz,1,800,200,895,225
+data/train/frame_487.jpg,Allianz,1,800,400,895,425
+data/train/frame_488.jpg,Allianz,1,800,600,895,625
+data/train/frame_489.jpg,Allianz,1,0,0,95,25
+data/train/frame_490.jpg,Allianz,1,0,200,95,225
+data/train/frame_491.jpg,No finding,0,0,0,1,1
+data/train/frame_492.jpg,Allianz,1,0,400,95,425
+data/train/frame_493.jpg,Allianz,1,0,600,95,625
+data/train/frame_494.jpg,Allianz,1,200,0,295,25
+data/train/frame_495.jpg,Allianz,1,200,200,295,225
+data/train/frame_496.jpg,Allianz,1,200,400,295,425
+data/train/frame_497.jpg,Allianz,1,200,600,295,625
+data/train/frame_498.jpg,Allianz,1,400,0,495,25
+data/train/frame_499.jpg,Allianz,1,400,200,495,225
+data/train/frame_500.jpg,Allianz,1,400,400,495,425
+data/train/frame_501.jpg,No finding,0,0,0,1,1
+data/train/frame_502.jpg,Allianz,1,400,600,495,625
+data/train/frame_503.jpg,Allianz,1,600,0,695,25
+data/train/frame_504.jpg,Allianz,1,600,200,695,225
+data/train/frame_505.jpg,Allianz,1,600,400,695,425
+data/train/frame_506.jpg,Allianz,1,600,600,695,625
+data/train/frame_507.jpg,Allianz,1,800,0,895,25
+data/train/frame_508.jpg,Allianz,1,800,200,895,225
+data/train/frame_509.jpg,Allianz,1,800,400,895,425
+data/train/frame_510.jpg,Allianz,1,800,600,895,625
+data/train/frame_511.jpg,No finding,0,0,0,1,1
+data/train/frame_512.jpg,Allianz,1,0,0,95,25
+data/train/frame_513.jpg,Allianz,1,0,200,95,225
+data/train/frame_514.jpg,Allianz,1,0,400,95,425
+data/train/frame_515.jpg,Allianz,1,0,600,95,625
+data/train/frame_516.jpg,Allianz,1,200,0,295,25
+data/train/frame_517.jpg,Allianz,1,200,200,295,225
+data/train/frame_518.jpg,Allianz,1,200,400,295,425
+data/train/frame_519.jpg,Allianz,1,200,600,295,625
+data/train/frame_520.jpg,Allianz,1,400,0,495,25
+data/train/frame_521.jpg,No finding,0,0,0,1,1
+data/train/frame_522.jpg,Allianz,1,400,200,495,225
+data/train/frame_523.jpg,Allianz,1,400,400,495,425
+data/train/frame_524.jpg,Allianz,1,400,600,495,625
+data/train/frame_525.jpg,Allianz,1,600,0,695,25
+data/train/frame_526.jpg,Allianz,1,600,200,695,225
+data/train/frame_527.jpg,Allianz,1,600,400,695,425
+data/train/frame_528.jpg,Allianz,1,600,600,695,625
+data/train/frame_529.jpg,Allianz,1,800,0,895,25
+data/train/frame_530.jpg,Allianz,1,800,200,895,225
+data/train/frame_531.jpg,No finding,0,0,0,1,1
+data/train/frame_532.jpg,Allianz,1,800,400,895,425
+data/train/frame_533.jpg,Allianz,1,800,600,895,625
+data/train/frame_534.jpg,Allianz,1,0,0,95,25
+data/train/frame_535.jpg,Allianz,1,0,200,95,225
+data/train/frame_536.jpg,Allianz,1,0,400,95,425
+data/train/frame_537.jpg,Allianz,1,0,600,95,625
+data/train/frame_538.jpg,Allianz,1,200,0,295,25
+data/train/frame_539.jpg,Allianz,1,200,200,295,225
+data/train/frame_540.jpg,Allianz,1,200,400,295,425
+data/train/frame_541.jpg,No finding,0,0,0,1,1
+data/train/frame_542.jpg,Allianz,1,200,600,295,625
+data/train/frame_543.jpg,Allianz,1,400,0,495,25
+data/train/frame_544.jpg,Allianz,1,400,200,495,225
+data/train/frame_545.jpg,Allianz,1,400,400,495,425
+data/train/frame_546.jpg,Allianz,1,400,600,495,625
+data/train/frame_547.jpg,Allianz,1,600,0,695,25
+data/train/frame_548.jpg,Allianz,1,600,200,695,225
+data/train/frame_549.jpg,Allianz,1,600,400,695,425
+data/train/frame_550.jpg,Allianz,1,600,600,695,625
+data/train/frame_551.jpg,No finding,0,0,0,1,1
+data/train/frame_552.jpg,Allianz,1,800,0,895,25
+data/train/frame_553.jpg,Allianz,1,800,200,895,225
+data/train/frame_554.jpg,Allianz,1,800,400,895,425
+data/train/frame_555.jpg,Allianz,1,800,600,895,625
+data/train/frame_556.jpg,Allianz,1,0,0,190,49
+data/train/frame_557.jpg,Allianz,1,0,200,190,249
+data/train/frame_558.jpg,Allianz,1,0,400,190,449
+data/train/frame_559.jpg,Allianz,1,200,0,390,49
+data/train/frame_560.jpg,Allianz,1,200,200,390,249
+data/train/frame_561.jpg,No finding,0,0,0,1,1
+data/train/frame_562.jpg,Allianz,1,200,400,390,449
+data/train/frame_563.jpg,Allianz,1,400,0,590,49
+data/train/frame_564.jpg,Allianz,1,400,200,590,249
+data/train/frame_565.jpg,Allianz,1,400,400,590,449
+data/train/frame_566.jpg,Allianz,1,600,0,790,49
+data/train/frame_567.jpg,Allianz,1,600,200,790,249
+data/train/frame_568.jpg,Allianz,1,600,400,790,449
+data/train/frame_569.jpg,Allianz,1,800,0,990,49
+data/train/frame_570.jpg,Allianz,1,800,200,990,249
+data/train/frame_571.jpg,No finding,0,0,0,1,1
+data/train/frame_572.jpg,Allianz,1,800,400,990,449
+data/train/frame_573.jpg,Allianz,1,0,0,190,49
+data/train/frame_574.jpg,Allianz,1,0,200,190,249
+data/train/frame_575.jpg,Allianz,1,0,400,190,449
+data/train/frame_576.jpg,Allianz,1,200,0,390,49
+data/train/frame_577.jpg,Allianz,1,200,200,390,249
+data/train/frame_578.jpg,Allianz,1,200,400,390,449
+data/train/frame_579.jpg,Allianz,1,400,0,590,49
+data/train/frame_580.jpg,Allianz,1,400,200,590,249
+data/train/frame_581.jpg,No finding,0,0,0,1,1
+data/train/frame_582.jpg,Allianz,1,400,400,590,449
+data/train/frame_583.jpg,Allianz,1,600,0,790,49
+data/train/frame_584.jpg,Allianz,1,600,200,790,249
+data/train/frame_585.jpg,Allianz,1,600,400,790,449
+data/train/frame_586.jpg,Allianz,1,800,0,990,49
+data/train/frame_587.jpg,Allianz,1,800,200,990,249
+data/train/frame_588.jpg,Allianz,1,800,400,990,449
+data/train/frame_589.jpg,Allianz,1,0,0,190,49
+data/train/frame_590.jpg,Allianz,1,0,200,190,249
+data/train/frame_591.jpg,No finding,0,0,0,1,1
+data/train/frame_592.jpg,Allianz,1,0,400,190,449
+data/train/frame_593.jpg,Allianz,1,200,0,390,49
+data/train/frame_594.jpg,Allianz,1,200,200,390,249
+data/train/frame_595.jpg,Allianz,1,200,400,390,449
+data/train/frame_596.jpg,Allianz,1,400,0,590,49
+data/train/frame_597.jpg,Allianz,1,400,200,590,249
+data/train/frame_598.jpg,Allianz,1,400,400,590,449
+data/train/frame_599.jpg,Allianz,1,600,0,790,49
+data/train/frame_600.jpg,Allianz,1,600,200,790,249
+data/train/frame_601.jpg,No finding,0,0,0,1,1
+data/train/frame_602.jpg,Allianz,1,600,400,790,449
+data/train/frame_603.jpg,Allianz,1,800,0,990,49
+data/train/frame_604.jpg,Allianz,1,800,200,990,249
+data/train/frame_605.jpg,Allianz,1,800,400,990,449
+data/train/frame_606.jpg,Allianz,1,0,0,190,49
+data/train/frame_607.jpg,Allianz,1,0,200,190,249
+data/train/frame_608.jpg,Allianz,1,0,400,190,449
+data/train/frame_609.jpg,Allianz,1,200,0,390,49
+data/train/frame_610.jpg,Allianz,1,200,200,390,249
+data/train/frame_611.jpg,No finding,0,0,0,1,1
+data/train/frame_612.jpg,Allianz,1,200,400,390,449
+data/train/frame_613.jpg,Allianz,1,400,0,590,49
+data/train/frame_614.jpg,Allianz,1,400,200,590,249
+data/train/frame_615.jpg,Allianz,1,400,400,590,449
+data/train/frame_616.jpg,Allianz,1,600,0,790,49
+data/train/frame_617.jpg,Allianz,1,600,200,790,249
+data/train/frame_618.jpg,Allianz,1,600,400,790,449
+data/train/frame_619.jpg,Allianz,1,800,0,990,49
+data/train/frame_620.jpg,Allianz,1,800,200,990,249
+data/train/frame_621.jpg,No finding,0,0,0,1,1
+data/train/frame_622.jpg,Allianz,1,800,400,990,449
+data/train/frame_623.jpg,Allianz,1,0,0,190,49
+data/train/frame_624.jpg,Allianz,1,0,200,190,249
+data/train/frame_625.jpg,Allianz,1,0,400,190,449
+data/train/frame_626.jpg,Allianz,1,200,0,390,49
+data/train/frame_627.jpg,Allianz,1,200,200,390,249
+data/train/frame_628.jpg,Allianz,1,200,400,390,449
+data/train/frame_629.jpg,Allianz,1,400,0,590,49
+data/train/frame_630.jpg,Allianz,1,400,200,590,249
+data/train/frame_631.jpg,No finding,0,0,0,1,1
+data/train/frame_632.jpg,Allianz,1,400,400,590,449
+data/train/frame_633.jpg,Allianz,1,600,0,790,49
+data/train/frame_634.jpg,Allianz,1,600,200,790,249
+data/train/frame_635.jpg,Allianz,1,600,400,790,449
+data/train/frame_636.jpg,Allianz,1,800,0,990,49
+data/train/frame_637.jpg,Allianz,1,800,200,990,249
+data/train/frame_638.jpg,Allianz,1,800,400,990,449
+data/train/frame_639.jpg,Allianz,1,0,0,190,49
+data/train/frame_640.jpg,Allianz,1,0,200,190,249
+data/train/frame_641.jpg,No finding,0,0,0,1,1
+data/train/frame_642.jpg,Allianz,1,0,400,190,449
+data/train/frame_643.jpg,Allianz,1,200,0,390,49
+data/train/frame_644.jpg,Allianz,1,200,200,390,249
+data/train/frame_645.jpg,Allianz,1,200,400,390,449
+data/train/frame_646.jpg,Allianz,1,400,0,590,49
+data/train/frame_647.jpg,Allianz,1,400,200,590,249
+data/train/frame_648.jpg,Allianz,1,400,400,590,449
+data/train/frame_649.jpg,Allianz,1,600,0,790,49
+data/train/frame_650.jpg,Allianz,1,600,200,790,249
+data/train/frame_651.jpg,No finding,0,0,0,1,1
+data/train/frame_652.jpg,Allianz,1,600,400,790,449
+data/train/frame_653.jpg,Allianz,1,800,0,990,49
+data/train/frame_654.jpg,Allianz,1,800,200,990,249
+data/train/frame_655.jpg,Allianz,1,800,400,990,449
+data/train/frame_656.jpg,Allianz,1,0,0,190,49
+data/train/frame_657.jpg,Allianz,1,0,200,190,249
+data/train/frame_658.jpg,Allianz,1,0,400,190,449
+data/train/frame_659.jpg,Allianz,1,200,0,390,49
+data/train/frame_660.jpg,Allianz,1,200,200,390,249
+data/train/frame_661.jpg,No finding,0,0,0,1,1
+data/train/frame_662.jpg,Allianz,1,200,400,390,449
+data/train/frame_663.jpg,Allianz,1,400,0,590,49
+data/train/frame_664.jpg,Allianz,1,400,200,590,249
+data/train/frame_665.jpg,Allianz,1,400,400,590,449
+data/train/frame_666.jpg,Allianz,1,600,0,790,49
+data/train/frame_667.jpg,Allianz,1,600,200,790,249
+data/train/frame_668.jpg,Allianz,1,600,400,790,449
+data/train/frame_669.jpg,Allianz,1,800,0,990,49
+data/train/frame_670.jpg,Allianz,1,800,200,990,249
+data/train/frame_671.jpg,No finding,0,0,0,1,1
+data/train/frame_672.jpg,Allianz,1,800,400,990,449
+data/train/frame_673.jpg,Allianz,1,0,0,190,49
+data/train/frame_674.jpg,Allianz,1,0,200,190,249
+data/train/frame_675.jpg,Allianz,1,0,400,190,449
+data/train/frame_676.jpg,Allianz,1,200,0,390,49
+data/train/frame_677.jpg,Allianz,1,200,200,390,249
+data/train/frame_678.jpg,Allianz,1,200,400,390,449
+data/train/frame_679.jpg,Allianz,1,400,0,590,49
+data/train/frame_680.jpg,Allianz,1,400,200,590,249
+data/train/frame_681.jpg,No finding,0,0,0,1,1
+data/train/frame_682.jpg,Allianz,1,400,400,590,449
+data/train/frame_683.jpg,Allianz,1,600,0,790,49
+data/train/frame_684.jpg,Allianz,1,600,200,790,249
+data/train/frame_685.jpg,Allianz,1,600,400,790,449
+data/train/frame_686.jpg,Allianz,1,800,0,990,49
+data/train/frame_687.jpg,Allianz,1,800,200,990,249
+data/train/frame_688.jpg,Allianz,1,800,400,990,449
+data/train/frame_689.jpg,Allianz,1,0,0,190,49
+data/train/frame_690.jpg,Allianz,1,0,200,190,249
+data/train/frame_691.jpg,No finding,0,0,0,1,1
+data/train/frame_692.jpg,Allianz,1,0,400,190,449
+data/train/frame_693.jpg,Allianz,1,200,0,390,49
+data/train/frame_694.jpg,Allianz,1,200,200,390,249
+data/train/frame_695.jpg,Allianz,1,200,400,390,449
+data/train/frame_696.jpg,Allianz,1,400,0,590,49
+data/train/frame_697.jpg,Allianz,1,400,200,590,249
+data/train/frame_698.jpg,Allianz,1,400,400,590,449
+data/train/frame_699.jpg,Allianz,1,600,0,790,49
+data/train/frame_700.jpg,Allianz,1,600,200,790,249
+data/train/frame_701.jpg,No finding,0,0,0,1,1
+data/train/frame_702.jpg,Allianz,1,600,400,790,449
+data/train/frame_703.jpg,Allianz,1,800,0,990,49
+data/train/frame_704.jpg,Allianz,1,800,200,990,249
+data/train/frame_705.jpg,Allianz,1,800,400,990,449
+data/train/frame_706.jpg,Allianz,1,0,0,190,49
+data/train/frame_707.jpg,Allianz,1,0,200,190,249
+data/train/frame_708.jpg,Allianz,1,0,400,190,449
+data/train/frame_709.jpg,Allianz,1,200,0,390,49
+data/train/frame_710.jpg,Allianz,1,200,200,390,249
+data/train/frame_711.jpg,No finding,0,0,0,1,1
+data/train/frame_712.jpg,Allianz,1,200,400,390,449
+data/train/frame_713.jpg,Allianz,1,400,0,590,49
+data/train/frame_714.jpg,Allianz,1,400,200,590,249
+data/train/frame_715.jpg,Allianz,1,400,400,590,449
+data/train/frame_716.jpg,Allianz,1,600,0,790,49
+data/train/frame_717.jpg,Allianz,1,600,200,790,249
+data/train/frame_718.jpg,Allianz,1,600,400,790,449
+data/train/frame_719.jpg,Allianz,1,800,0,990,49
+data/train/frame_720.jpg,Allianz,1,800,200,990,249
+data/train/frame_721.jpg,No finding,0,0,0,1,1
+data/train/frame_722.jpg,Allianz,1,800,400,990,449
+data/train/frame_723.jpg,Allianz,1,0,0,190,49
+data/train/frame_724.jpg,Allianz,1,0,200,190,249
+data/train/frame_725.jpg,Allianz,1,0,400,190,449
+data/train/frame_726.jpg,Allianz,1,200,0,390,49
+data/train/frame_727.jpg,Allianz,1,200,200,390,249
+data/train/frame_728.jpg,Allianz,1,200,400,390,449
+data/train/frame_729.jpg,Allianz,1,400,0,590,49
+data/train/frame_730.jpg,Allianz,1,400,200,590,249
+data/train/frame_731.jpg,No finding,0,0,0,1,1
+data/train/frame_732.jpg,Allianz,1,400,400,590,449
+data/train/frame_733.jpg,Allianz,1,600,0,790,49
+data/train/frame_734.jpg,Allianz,1,600,200,790,249
+data/train/frame_735.jpg,Allianz,1,600,400,790,449
+data/train/frame_736.jpg,Allianz,1,800,0,990,49
+data/train/frame_737.jpg,Allianz,1,800,200,990,249
+data/train/frame_738.jpg,Allianz,1,800,400,990,449
+data/train/frame_739.jpg,Allianz,1,0,0,190,49
+data/train/frame_740.jpg,Allianz,1,0,200,190,249
+data/train/frame_741.jpg,No finding,0,0,0,1,1
+data/train/frame_742.jpg,Allianz,1,0,400,190,449
+data/train/frame_743.jpg,Allianz,1,200,0,390,49
+data/train/frame_744.jpg,Allianz,1,200,200,390,249
+data/train/frame_745.jpg,Allianz,1,200,400,390,449
+data/train/frame_746.jpg,Allianz,1,400,0,590,49
+data/train/frame_747.jpg,Allianz,1,400,200,590,249
+data/train/frame_748.jpg,Allianz,1,400,400,590,449
+data/train/frame_749.jpg,Allianz,1,600,0,790,49
+data/train/frame_750.jpg,Allianz,1,600,200,790,249
+data/train/frame_751.jpg,No finding,0,0,0,1,1
+data/train/frame_752.jpg,Allianz,1,600,400,790,449
+data/train/frame_753.jpg,Allianz,1,800,0,990,49
+data/train/frame_754.jpg,Allianz,1,800,200,990,249
+data/train/frame_755.jpg,Allianz,1,800,400,990,449
+data/train/frame_756.jpg,Allianz,1,0,0,190,49
+data/train/frame_757.jpg,Allianz,1,0,200,190,249
+data/train/frame_758.jpg,Allianz,1,0,400,190,449
+data/train/frame_759.jpg,Allianz,1,200,0,390,49
+data/train/frame_760.jpg,Allianz,1,200,200,390,249
+data/train/frame_761.jpg,No finding,0,0,0,1,1
+data/train/frame_762.jpg,Allianz,1,200,400,390,449
+data/train/frame_763.jpg,Allianz,1,400,0,590,49
+data/train/frame_764.jpg,Allianz,1,400,200,590,249
+data/train/frame_765.jpg,Allianz,1,400,400,590,449
+data/train/frame_766.jpg,Allianz,1,600,0,790,49
+data/train/frame_767.jpg,Allianz,1,600,200,790,249
+data/train/frame_768.jpg,Allianz,1,600,400,790,449
+data/train/frame_769.jpg,Allianz,1,800,0,990,49
+data/train/frame_770.jpg,Allianz,1,800,200,990,249
+data/train/frame_771.jpg,No finding,0,0,0,1,1
+data/train/frame_772.jpg,Allianz,1,800,400,990,449
+data/train/frame_773.jpg,Allianz,1,0,0,190,49
+data/train/frame_774.jpg,Allianz,1,0,200,190,249
+data/train/frame_775.jpg,Allianz,1,0,400,190,449
+data/train/frame_776.jpg,Allianz,1,200,0,390,49
+data/train/frame_777.jpg,Allianz,1,200,200,390,249
+data/train/frame_778.jpg,Allianz,1,200,400,390,449
+data/train/frame_779.jpg,Allianz,1,400,0,590,49
+data/train/frame_780.jpg,Allianz,1,400,200,590,249
+data/train/frame_781.jpg,No finding,0,0,0,1,1
+data/train/frame_782.jpg,Allianz,1,400,400,590,449
+data/train/frame_783.jpg,Allianz,1,600,0,790,49
+data/train/frame_784.jpg,Allianz,1,600,200,790,249
+data/train/frame_785.jpg,Allianz,1,600,400,790,449
+data/train/frame_786.jpg,Allianz,1,800,0,990,49
+data/train/frame_787.jpg,Allianz,1,800,200,990,249
+data/train/frame_788.jpg,Allianz,1,800,400,990,449
+data/train/frame_789.jpg,Allianz,1,0,0,190,49
+data/train/frame_790.jpg,Allianz,1,0,200,190,249
+data/train/frame_791.jpg,No finding,0,0,0,1,1
+data/train/frame_792.jpg,Allianz,1,0,400,190,449
+data/train/frame_793.jpg,Allianz,1,200,0,390,49
+data/train/frame_794.jpg,Allianz,1,200,200,390,249
+data/train/frame_795.jpg,Allianz,1,200,400,390,449
+data/train/frame_796.jpg,Allianz,1,400,0,590,49
+data/train/frame_797.jpg,Allianz,1,400,200,590,249
+data/train/frame_798.jpg,Allianz,1,400,400,590,449
+data/train/frame_799.jpg,Allianz,1,600,0,790,49
+data/train/frame_800.jpg,Allianz,1,600,200,790,249
+data/train/frame_801.jpg,No finding,0,0,0,1,1
+data/train/frame_802.jpg,Allianz,1,600,400,790,449
+data/train/frame_803.jpg,Allianz,1,800,0,990,49
+data/train/frame_804.jpg,Allianz,1,800,200,990,249
+data/train/frame_805.jpg,Allianz,1,800,400,990,449
+data/train/frame_806.jpg,Allianz,1,0,0,190,49
+data/train/frame_807.jpg,Allianz,1,0,200,190,249
+data/train/frame_808.jpg,Allianz,1,0,400,190,449
+data/train/frame_809.jpg,Allianz,1,200,0,390,49
+data/train/frame_810.jpg,Allianz,1,200,200,390,249
+data/train/frame_811.jpg,No finding,0,0,0,1,1
+data/train/frame_812.jpg,Allianz,1,200,400,390,449
+data/train/frame_813.jpg,Allianz,1,400,0,590,49
+data/train/frame_814.jpg,Allianz,1,400,200,590,249
+data/train/frame_815.jpg,Allianz,1,400,400,590,449
+data/train/frame_816.jpg,Allianz,1,600,0,790,49
+data/train/frame_817.jpg,Allianz,1,600,200,790,249
+data/train/frame_818.jpg,Allianz,1,600,400,790,449
+data/train/frame_819.jpg,Allianz,1,800,0,990,49
+data/train/frame_820.jpg,Allianz,1,800,200,990,249
+data/train/frame_821.jpg,No finding,0,0,0,1,1
+data/train/frame_822.jpg,Allianz,1,800,400,990,449
+data/train/frame_823.jpg,Allianz,1,0,0,190,49
+data/train/frame_824.jpg,Allianz,1,0,200,190,249
+data/train/frame_825.jpg,Allianz,1,0,400,190,449
+data/train/frame_826.jpg,Allianz,1,200,0,390,49
+data/train/frame_827.jpg,Allianz,1,200,200,390,249
+data/train/frame_828.jpg,Allianz,1,200,400,390,449
+data/train/frame_829.jpg,Allianz,1,400,0,590,49
+data/train/frame_830.jpg,Allianz,1,400,200,590,249
+data/train/frame_831.jpg,No finding,0,0,0,1,1
+data/train/frame_832.jpg,Allianz,1,400,400,590,449
+data/train/frame_833.jpg,Allianz,1,600,0,790,49
+data/train/frame_834.jpg,Allianz,1,600,200,790,249
+data/train/frame_835.jpg,Allianz,1,600,400,790,449
+data/train/frame_836.jpg,Allianz,1,800,0,990,49
+data/train/frame_837.jpg,Allianz,1,800,200,990,249
+data/train/frame_838.jpg,Allianz,1,800,400,990,449
+data/train/frame_839.jpg,Allianz,1,0,0,190,49
+data/train/frame_840.jpg,Allianz,1,0,200,190,249
+data/train/frame_841.jpg,No finding,0,0,0,1,1
+data/train/frame_842.jpg,Allianz,1,0,400,190,449
+data/train/frame_843.jpg,Allianz,1,200,0,390,49
+data/train/frame_844.jpg,Allianz,1,200,200,390,249
+data/train/frame_845.jpg,Allianz,1,200,400,390,449
+data/train/frame_846.jpg,Allianz,1,400,0,590,49
+data/train/frame_847.jpg,Allianz,1,400,200,590,249
+data/train/frame_848.jpg,Allianz,1,400,400,590,449
+data/train/frame_849.jpg,Allianz,1,600,0,790,49
+data/train/frame_850.jpg,Allianz,1,600,200,790,249
+data/train/frame_851.jpg,No finding,0,0,0,1,1
+data/train/frame_852.jpg,Allianz,1,600,400,790,449
+data/train/frame_853.jpg,Allianz,1,800,0,990,49
+data/train/frame_854.jpg,Allianz,1,800,200,990,249
+data/train/frame_855.jpg,Allianz,1,800,400,990,449
+data/train/frame_856.jpg,Allianz,1,0,0,190,49
+data/train/frame_857.jpg,Allianz,1,0,200,190,249
+data/train/frame_858.jpg,Allianz,1,0,400,190,449
+data/train/frame_859.jpg,Allianz,1,200,0,390,49
+data/train/frame_860.jpg,Allianz,1,200,200,390,249
+data/train/frame_861.jpg,No finding,0,0,0,1,1
+data/train/frame_862.jpg,Allianz,1,200,400,390,449
+data/train/frame_863.jpg,Allianz,1,400,0,590,49
+data/train/frame_864.jpg,Allianz,1,400,200,590,249
+data/train/frame_865.jpg,Allianz,1,400,400,590,449
+data/train/frame_866.jpg,Allianz,1,600,0,790,49
+data/train/frame_867.jpg,Allianz,1,600,200,790,249
+data/train/frame_868.jpg,Allianz,1,600,400,790,449
+data/train/frame_869.jpg,Allianz,1,800,0,990,49
+data/train/frame_870.jpg,Allianz,1,800,200,990,249
+data/train/frame_871.jpg,No finding,0,0,0,1,1
+data/train/frame_872.jpg,Allianz,1,800,400,990,449
+data/train/frame_873.jpg,Allianz,1,0,0,190,49
+data/train/frame_874.jpg,Allianz,1,0,200,190,249
+data/train/frame_875.jpg,Allianz,1,0,400,190,449
+data/train/frame_876.jpg,Allianz,1,200,0,390,49
+data/train/frame_877.jpg,Allianz,1,200,200,390,249
+data/train/frame_878.jpg,Allianz,1,200,400,390,449
+data/train/frame_879.jpg,Allianz,1,400,0,590,49
+data/train/frame_880.jpg,Allianz,1,400,200,590,249
+data/train/frame_881.jpg,No finding,0,0,0,1,1
+data/train/frame_882.jpg,Allianz,1,400,400,590,449
+data/train/frame_883.jpg,Allianz,1,600,0,790,49
+data/train/frame_884.jpg,Allianz,1,600,200,790,249
+data/train/frame_885.jpg,Allianz,1,600,400,790,449
+data/train/frame_886.jpg,Allianz,1,800,0,990,49
+data/train/frame_887.jpg,Allianz,1,800,200,990,249
+data/train/frame_888.jpg,Allianz,1,800,400,990,449
+data/train/frame_889.jpg,Allianz,1,0,0,190,49
+data/train/frame_890.jpg,Allianz,1,0,200,190,249
+data/train/frame_891.jpg,No finding,0,0,0,1,1
+data/train/frame_892.jpg,Allianz,1,0,400,190,449
+data/train/frame_893.jpg,Allianz,1,0,600,190,649
+data/train/frame_894.jpg,Allianz,1,200,0,390,49
+data/train/frame_895.jpg,Allianz,1,200,200,390,249
+data/train/frame_896.jpg,Allianz,1,200,400,390,449
+data/train/frame_897.jpg,Allianz,1,200,600,390,649
+data/train/frame_898.jpg,Allianz,1,400,0,590,49
+data/train/frame_899.jpg,Allianz,1,400,200,590,249
+data/train/frame_900.jpg,Allianz,1,400,400,590,449
+data/train/frame_901.jpg,No finding,0,0,0,1,1
+data/train/frame_902.jpg,Allianz,1,400,600,590,649
+data/train/frame_903.jpg,Allianz,1,600,0,790,49
+data/train/frame_904.jpg,Allianz,1,600,200,790,249
+data/train/frame_905.jpg,Allianz,1,600,400,790,449
+data/train/frame_906.jpg,Allianz,1,600,600,790,649
+data/train/frame_907.jpg,Allianz,1,800,0,990,49
+data/train/frame_908.jpg,Allianz,1,800,200,990,249
+data/train/frame_909.jpg,Allianz,1,800,400,990,449
+data/train/frame_910.jpg,Allianz,1,800,600,990,649
+data/train/frame_911.jpg,No finding,0,0,0,1,1
+data/train/frame_912.jpg,Allianz,1,0,0,190,49
+data/train/frame_913.jpg,Allianz,1,0,200,190,249
+data/train/frame_914.jpg,Allianz,1,0,400,190,449
+data/train/frame_915.jpg,Allianz,1,0,600,190,649
+data/train/frame_916.jpg,Allianz,1,200,0,390,49
+data/train/frame_917.jpg,Allianz,1,200,200,390,249
+data/train/frame_918.jpg,Allianz,1,200,400,390,449
+data/train/frame_919.jpg,Allianz,1,200,600,390,649
+data/train/frame_920.jpg,Allianz,1,400,0,590,49
+data/train/frame_921.jpg,No finding,0,0,0,1,1
+data/train/frame_922.jpg,Allianz,1,400,200,590,249
+data/train/frame_923.jpg,Allianz,1,400,400,590,449
+data/train/frame_924.jpg,Allianz,1,400,600,590,649
+data/train/frame_925.jpg,Allianz,1,600,0,790,49
+data/train/frame_926.jpg,Allianz,1,600,200,790,249
+data/train/frame_927.jpg,Allianz,1,600,400,790,449
+data/train/frame_928.jpg,Allianz,1,600,600,790,649
+data/train/frame_929.jpg,Allianz,1,800,0,990,49
+data/train/frame_930.jpg,Allianz,1,800,200,990,249
+data/train/frame_931.jpg,No finding,0,0,0,1,1
+data/train/frame_932.jpg,Allianz,1,800,400,990,449
+data/train/frame_933.jpg,Allianz,1,800,600,990,649
+data/train/frame_934.jpg,Allianz,1,0,0,190,49
+data/train/frame_935.jpg,Allianz,1,0,200,190,249
+data/train/frame_936.jpg,Allianz,1,0,400,190,449
+data/train/frame_937.jpg,Allianz,1,0,600,190,649
+data/train/frame_938.jpg,Allianz,1,200,0,390,49
+data/train/frame_939.jpg,Allianz,1,200,200,390,249
+data/train/frame_940.jpg,Allianz,1,200,400,390,449
+data/train/frame_941.jpg,No finding,0,0,0,1,1
+data/train/frame_942.jpg,Allianz,1,200,600,390,649
+data/train/frame_943.jpg,Allianz,1,400,0,590,49
+data/train/frame_944.jpg,Allianz,1,400,200,590,249
+data/train/frame_945.jpg,Allianz,1,400,400,590,449
+data/train/frame_946.jpg,Allianz,1,400,600,590,649
+data/train/frame_947.jpg,Allianz,1,600,0,790,49
+data/train/frame_948.jpg,Allianz,1,600,200,790,249
+data/train/frame_949.jpg,Allianz,1,600,400,790,449
+data/train/frame_950.jpg,Allianz,1,600,600,790,649
+data/train/frame_951.jpg,No finding,0,0,0,1,1
+data/train/frame_952.jpg,Allianz,1,800,0,990,49
+data/train/frame_953.jpg,Allianz,1,800,200,990,249
+data/train/frame_954.jpg,Allianz,1,800,400,990,449
+data/train/frame_955.jpg,Allianz,1,800,600,990,649
+data/train/frame_956.jpg,Allianz,1,0,0,190,49
+data/train/frame_957.jpg,Allianz,1,0,200,190,249
+data/train/frame_958.jpg,Allianz,1,0,400,190,449
+data/train/frame_959.jpg,Allianz,1,0,600,190,649
+data/train/frame_960.jpg,Allianz,1,200,0,390,49
+data/train/frame_961.jpg,No finding,0,0,0,1,1
+data/train/frame_962.jpg,Allianz,1,200,200,390,249
+data/train/frame_963.jpg,Allianz,1,200,400,390,449
+data/train/frame_964.jpg,Allianz,1,200,600,390,649
+data/train/frame_965.jpg,Allianz,1,400,0,590,49
+data/train/frame_966.jpg,Allianz,1,400,200,590,249
+data/train/frame_967.jpg,Allianz,1,400,400,590,449
+data/train/frame_968.jpg,Allianz,1,400,600,590,649
+data/train/frame_969.jpg,Allianz,1,600,0,790,49
+data/train/frame_970.jpg,Allianz,1,600,200,790,249
+data/train/frame_971.jpg,No finding,0,0,0,1,1
+data/train/frame_972.jpg,Allianz,1,600,400,790,449
+data/train/frame_973.jpg,Allianz,1,600,600,790,649
+data/train/frame_974.jpg,Allianz,1,800,0,990,49
+data/train/frame_975.jpg,Allianz,1,800,200,990,249
+data/train/frame_976.jpg,Allianz,1,800,400,990,449
+data/train/frame_977.jpg,Allianz,1,800,600,990,649
+data/train/frame_978.jpg,Allianz,1,0,0,190,49
+data/train/frame_979.jpg,Allianz,1,0,200,190,249
+data/train/frame_980.jpg,Allianz,1,0,400,190,449
+data/train/frame_981.jpg,No finding,0,0,0,1,1
+data/train/frame_982.jpg,Allianz,1,0,600,190,649
+data/train/frame_983.jpg,Allianz,1,200,0,390,49
+data/train/frame_984.jpg,Allianz,1,200,200,390,249
+data/train/frame_985.jpg,Allianz,1,200,400,390,449
+data/train/frame_986.jpg,Allianz,1,200,600,390,649
+data/train/frame_987.jpg,Allianz,1,400,0,590,49
+data/train/frame_988.jpg,Allianz,1,400,200,590,249
+data/train/frame_989.jpg,Allianz,1,400,400,590,449
+data/train/frame_990.jpg,Allianz,1,400,600,590,649
+data/train/frame_991.jpg,No finding,0,0,0,1,1
+data/train/frame_992.jpg,Allianz,1,600,0,790,49
+data/train/frame_993.jpg,Allianz,1,600,200,790,249
+data/train/frame_994.jpg,Allianz,1,600,400,790,449
+data/train/frame_995.jpg,Allianz,1,600,600,790,649
+data/train/frame_996.jpg,Allianz,1,800,0,990,49
+data/train/frame_997.jpg,Allianz,1,800,200,990,249
+data/train/frame_998.jpg,Allianz,1,800,400,990,449
+data/train/frame_999.jpg,Allianz,1,800,600,990,649
+data/train/frame_1000.jpg,Allianz,1,0,0,190,49
+data/train/frame_1001.jpg,No finding,0,0,0,1,1
+data/train/frame_1002.jpg,Allianz,1,0,200,190,249
+data/train/frame_1003.jpg,Allianz,1,0,400,190,449
+data/train/frame_1004.jpg,Allianz,1,0,600,190,649
+data/train/frame_1005.jpg,Allianz,1,200,0,390,49
+data/train/frame_1006.jpg,Allianz,1,200,200,390,249
+data/train/frame_1007.jpg,Allianz,1,200,400,390,449
+data/train/frame_1008.jpg,Allianz,1,200,600,390,649
+data/train/frame_1009.jpg,Allianz,1,400,0,590,49
+data/train/frame_1010.jpg,Allianz,1,400,200,590,249
+data/train/frame_1011.jpg,No finding,0,0,0,1,1
+data/train/frame_1012.jpg,Allianz,1,400,400,590,449
+data/train/frame_1013.jpg,Allianz,1,400,600,590,649
+data/train/frame_1014.jpg,Allianz,1,600,0,790,49
+data/train/frame_1015.jpg,Allianz,1,600,200,790,249
+data/train/frame_1016.jpg,Allianz,1,600,400,790,449
+data/train/frame_1017.jpg,Allianz,1,600,600,790,649
+data/train/frame_1018.jpg,Allianz,1,800,0,990,49
+data/train/frame_1019.jpg,Allianz,1,800,200,990,249
+data/train/frame_1020.jpg,Allianz,1,800,400,990,449
+data/train/frame_1021.jpg,No finding,0,0,0,1,1
+data/train/frame_1022.jpg,Allianz,1,800,600,990,649
+data/train/frame_1023.jpg,Allianz,1,0,0,190,49
+data/train/frame_1024.jpg,Allianz,1,0,200,190,249
+data/train/frame_1025.jpg,Allianz,1,0,400,190,449
+data/train/frame_1026.jpg,Allianz,1,0,600,190,649
+data/train/frame_1027.jpg,Allianz,1,200,0,390,49
+data/train/frame_1028.jpg,Allianz,1,200,200,390,249
+data/train/frame_1029.jpg,Allianz,1,200,400,390,449
+data/train/frame_1030.jpg,Allianz,1,200,600,390,649
+data/train/frame_1031.jpg,No finding,0,0,0,1,1
+data/train/frame_1032.jpg,Allianz,1,400,0,590,49
+data/train/frame_1033.jpg,Allianz,1,400,200,590,249
+data/train/frame_1034.jpg,Allianz,1,400,400,590,449
+data/train/frame_1035.jpg,Allianz,1,400,600,590,649
+data/train/frame_1036.jpg,Allianz,1,600,0,790,49
+data/train/frame_1037.jpg,Allianz,1,600,200,790,249
+data/train/frame_1038.jpg,Allianz,1,600,400,790,449
+data/train/frame_1039.jpg,Allianz,1,600,600,790,649
+data/train/frame_1040.jpg,Allianz,1,800,0,990,49
+data/train/frame_1041.jpg,No finding,0,0,0,1,1
+data/train/frame_1042.jpg,Allianz,1,800,200,990,249
+data/train/frame_1043.jpg,Allianz,1,800,400,990,449
+data/train/frame_1044.jpg,Allianz,1,800,600,990,649
+data/train/frame_1045.jpg,Allianz,1,0,0,190,49
+data/train/frame_1046.jpg,Allianz,1,0,200,190,249
+data/train/frame_1047.jpg,Allianz,1,0,400,190,449
+data/train/frame_1048.jpg,Allianz,1,0,600,190,649
+data/train/frame_1049.jpg,Allianz,1,200,0,390,49
+data/train/frame_1050.jpg,Allianz,1,200,200,390,249
+data/train/frame_1051.jpg,No finding,0,0,0,1,1
+data/train/frame_1052.jpg,Allianz,1,200,400,390,449
+data/train/frame_1053.jpg,Allianz,1,200,600,390,649
+data/train/frame_1054.jpg,Allianz,1,400,0,590,49
+data/train/frame_1055.jpg,Allianz,1,400,200,590,249
+data/train/frame_1056.jpg,Allianz,1,400,400,590,449
+data/train/frame_1057.jpg,Allianz,1,400,600,590,649
+data/train/frame_1058.jpg,Allianz,1,600,0,790,49
+data/train/frame_1059.jpg,Allianz,1,600,200,790,249
+data/train/frame_1060.jpg,Allianz,1,600,400,790,449
+data/train/frame_1061.jpg,No finding,0,0,0,1,1
+data/train/frame_1062.jpg,Allianz,1,600,600,790,649
+data/train/frame_1063.jpg,Allianz,1,800,0,990,49
+data/train/frame_1064.jpg,Allianz,1,800,200,990,249
+data/train/frame_1065.jpg,Allianz,1,800,400,990,449
+data/train/frame_1066.jpg,Allianz,1,800,600,990,649
+data/train/frame_1067.jpg,Allianz,1,0,0,190,49
+data/train/frame_1068.jpg,Allianz,1,0,200,190,249
+data/train/frame_1069.jpg,Allianz,1,0,400,190,449
+data/train/frame_1070.jpg,Allianz,1,0,600,190,649
+data/train/frame_1071.jpg,No finding,0,0,0,1,1
+data/train/frame_1072.jpg,Allianz,1,200,0,390,49
+data/train/frame_1073.jpg,Allianz,1,200,200,390,249
+data/train/frame_1074.jpg,Allianz,1,200,400,390,449
+data/train/frame_1075.jpg,Allianz,1,200,600,390,649
+data/train/frame_1076.jpg,Allianz,1,400,0,590,49
+data/train/frame_1077.jpg,Allianz,1,400,200,590,249
+data/train/frame_1078.jpg,Allianz,1,400,400,590,449
+data/train/frame_1079.jpg,Allianz,1,400,600,590,649
+data/train/frame_1080.jpg,Allianz,1,600,0,790,49
+data/train/frame_1081.jpg,No finding,0,0,0,1,1
+data/train/frame_1082.jpg,Allianz,1,600,200,790,249
+data/train/frame_1083.jpg,Allianz,1,600,400,790,449
+data/train/frame_1084.jpg,Allianz,1,600,600,790,649
+data/train/frame_1085.jpg,Allianz,1,800,0,990,49
+data/train/frame_1086.jpg,Allianz,1,800,200,990,249
+data/train/frame_1087.jpg,Allianz,1,800,400,990,449
+data/train/frame_1088.jpg,Allianz,1,800,600,990,649
+data/train/frame_1089.jpg,Allianz,1,0,0,190,49
+data/train/frame_1090.jpg,Allianz,1,0,200,190,249
+data/train/frame_1091.jpg,No finding,0,0,0,1,1
+data/train/frame_1092.jpg,Allianz,1,0,400,190,449
+data/train/frame_1093.jpg,Allianz,1,0,600,190,649
+data/train/frame_1094.jpg,Allianz,1,200,0,390,49
+data/train/frame_1095.jpg,Allianz,1,200,200,390,249
+data/train/frame_1096.jpg,Allianz,1,200,400,390,449
+data/train/frame_1097.jpg,Allianz,1,200,600,390,649
+data/train/frame_1098.jpg,Allianz,1,400,0,590,49
+data/train/frame_1099.jpg,Allianz,1,400,200,590,249
+data/train/frame_1100.jpg,Allianz,1,400,400,590,449
+data/train/frame_1101.jpg,No finding,0,0,0,1,1
+data/train/frame_1102.jpg,Allianz,1,400,600,590,649
+data/train/frame_1103.jpg,Allianz,1,600,0,790,49
+data/train/frame_1104.jpg,Allianz,1,600,200,790,249
+data/train/frame_1105.jpg,Allianz,1,600,400,790,449
+data/train/frame_1106.jpg,Allianz,1,600,600,790,649
+data/train/frame_1107.jpg,Allianz,1,800,0,990,49
+data/train/frame_1108.jpg,Allianz,1,800,200,990,249
+data/train/frame_1109.jpg,Allianz,1,800,400,990,449
+data/train/frame_1110.jpg,Allianz,1,800,600,990,649
+data/train/frame_1111.jpg,No finding,0,0,0,1,1
+data/train/frame_1112.jpg,Allianz,1,0,0,284,73
+data/train/frame_1113.jpg,Allianz,1,0,200,284,273
+data/train/frame_1114.jpg,Allianz,1,0,400,284,473
+data/train/frame_1115.jpg,Allianz,1,200,0,484,73
+data/train/frame_1116.jpg,Allianz,1,200,200,484,273
+data/train/frame_1117.jpg,Allianz,1,200,400,484,473
+data/train/frame_1118.jpg,Allianz,1,400,0,684,73
+data/train/frame_1119.jpg,Allianz,1,400,200,684,273
+data/train/frame_1120.jpg,Allianz,1,400,400,684,473
+data/train/frame_1121.jpg,No finding,0,0,0,1,1
+data/train/frame_1122.jpg,Allianz,1,600,0,884,73
+data/train/frame_1123.jpg,Allianz,1,600,200,884,273
+data/train/frame_1124.jpg,Allianz,1,600,400,884,473
+data/train/frame_1125.jpg,Allianz,1,0,0,284,73
+data/train/frame_1126.jpg,Allianz,1,0,200,284,273
+data/train/frame_1127.jpg,Allianz,1,0,400,284,473
+data/train/frame_1128.jpg,Allianz,1,200,0,484,73
+data/train/frame_1129.jpg,Allianz,1,200,200,484,273
+data/train/frame_1130.jpg,Allianz,1,200,400,484,473
+data/train/frame_1131.jpg,No finding,0,0,0,1,1
+data/train/frame_1132.jpg,Allianz,1,400,0,684,73
+data/train/frame_1133.jpg,Allianz,1,400,200,684,273
+data/train/frame_1134.jpg,Allianz,1,400,400,684,473
+data/train/frame_1135.jpg,Allianz,1,600,0,884,73
+data/train/frame_1136.jpg,Allianz,1,600,200,884,273
+data/train/frame_1137.jpg,Allianz,1,600,400,884,473
+data/train/frame_1138.jpg,Allianz,1,0,0,284,73
+data/train/frame_1139.jpg,Allianz,1,0,200,284,273
+data/train/frame_1140.jpg,Allianz,1,0,400,284,473
+data/train/frame_1141.jpg,No finding,0,0,0,1,1
+data/train/frame_1142.jpg,Allianz,1,200,0,484,73
+data/train/frame_1143.jpg,Allianz,1,200,200,484,273
+data/train/frame_1144.jpg,Allianz,1,200,400,484,473
+data/train/frame_1145.jpg,Allianz,1,400,0,684,73
+data/train/frame_1146.jpg,Allianz,1,400,200,684,273
+data/train/frame_1147.jpg,Allianz,1,400,400,684,473
+data/train/frame_1148.jpg,Allianz,1,600,0,884,73
+data/train/frame_1149.jpg,Allianz,1,600,200,884,273
+data/train/frame_1150.jpg,Allianz,1,600,400,884,473
+data/train/frame_1151.jpg,No finding,0,0,0,1,1
+data/train/frame_1152.jpg,Allianz,1,0,0,284,73
+data/train/frame_1153.jpg,Allianz,1,0,200,284,273
+data/train/frame_1154.jpg,Allianz,1,0,400,284,473
+data/train/frame_1155.jpg,Allianz,1,200,0,484,73
+data/train/frame_1156.jpg,Allianz,1,200,200,484,273
+data/train/frame_1157.jpg,Allianz,1,200,400,484,473
+data/train/frame_1158.jpg,Allianz,1,400,0,684,73
+data/train/frame_1159.jpg,Allianz,1,400,200,684,273
+data/train/frame_1160.jpg,Allianz,1,400,400,684,473
+data/train/frame_1161.jpg,No finding,0,0,0,1,1
+data/train/frame_1162.jpg,Allianz,1,600,0,884,73
+data/train/frame_1163.jpg,Allianz,1,600,200,884,273
+data/train/frame_1164.jpg,Allianz,1,600,400,884,473
+data/train/frame_1165.jpg,Allianz,1,0,0,284,73
+data/train/frame_1166.jpg,Allianz,1,0,200,284,273
+data/train/frame_1167.jpg,Allianz,1,0,400,284,473
+data/train/frame_1168.jpg,Allianz,1,200,0,484,73
+data/train/frame_1169.jpg,Allianz,1,200,200,484,273
+data/train/frame_1170.jpg,Allianz,1,200,400,484,473
+data/train/frame_1171.jpg,No finding,0,0,0,1,1
+data/train/frame_1172.jpg,Allianz,1,400,0,684,73
+data/train/frame_1173.jpg,Allianz,1,400,200,684,273
+data/train/frame_1174.jpg,Allianz,1,400,400,684,473
+data/train/frame_1175.jpg,Allianz,1,600,0,884,73
+data/train/frame_1176.jpg,Allianz,1,600,200,884,273
+data/train/frame_1177.jpg,Allianz,1,600,400,884,473
+data/train/frame_1178.jpg,Allianz,1,0,0,284,73
+data/train/frame_1179.jpg,Allianz,1,0,200,284,273
+data/train/frame_1180.jpg,Allianz,1,0,400,284,473
+data/train/frame_1181.jpg,No finding,0,0,0,1,1
+data/train/frame_1182.jpg,Allianz,1,200,0,484,73
+data/train/frame_1183.jpg,Allianz,1,200,200,484,273
+data/train/frame_1184.jpg,Allianz,1,200,400,484,473
+data/train/frame_1185.jpg,Allianz,1,400,0,684,73
+data/train/frame_1186.jpg,Allianz,1,400,200,684,273
+data/train/frame_1187.jpg,Allianz,1,400,400,684,473
+data/train/frame_1188.jpg,Allianz,1,600,0,884,73
+data/train/frame_1189.jpg,Allianz,1,600,200,884,273
+data/train/frame_1190.jpg,Allianz,1,600,400,884,473
+data/train/frame_1191.jpg,No finding,0,0,0,1,1
+data/train/frame_1192.jpg,Allianz,1,0,0,284,73
+data/train/frame_1193.jpg,Allianz,1,0,200,284,273
+data/train/frame_1194.jpg,Allianz,1,0,400,284,473
+data/train/frame_1195.jpg,Allianz,1,200,0,484,73
+data/train/frame_1196.jpg,Allianz,1,200,200,484,273
+data/train/frame_1197.jpg,Allianz,1,200,400,484,473
+data/train/frame_1198.jpg,Allianz,1,400,0,684,73
+data/train/frame_1199.jpg,Allianz,1,400,200,684,273
+data/train/frame_1200.jpg,Allianz,1,400,400,684,473
+data/train/frame_1201.jpg,No finding,0,0,0,1,1
+data/train/frame_1202.jpg,Allianz,1,600,0,884,73
+data/train/frame_1203.jpg,Allianz,1,600,200,884,273
+data/train/frame_1204.jpg,Allianz,1,600,400,884,473
+data/train/frame_1205.jpg,Allianz,1,0,0,284,73
+data/train/frame_1206.jpg,Allianz,1,0,200,284,273
+data/train/frame_1207.jpg,Allianz,1,0,400,284,473
+data/train/frame_1208.jpg,Allianz,1,200,0,484,73
+data/train/frame_1209.jpg,Allianz,1,200,200,484,273
+data/train/frame_1210.jpg,Allianz,1,200,400,484,473
+data/train/frame_1211.jpg,No finding,0,0,0,1,1
+data/train/frame_1212.jpg,Allianz,1,400,0,684,73
+data/train/frame_1213.jpg,Allianz,1,400,200,684,273
+data/train/frame_1214.jpg,Allianz,1,400,400,684,473
+data/train/frame_1215.jpg,Allianz,1,600,0,884,73
+data/train/frame_1216.jpg,Allianz,1,600,200,884,273
+data/train/frame_1217.jpg,Allianz,1,600,400,884,473
+data/train/frame_1218.jpg,Allianz,1,0,0,284,73
+data/train/frame_1219.jpg,Allianz,1,0,200,284,273
+data/train/frame_1220.jpg,Allianz,1,0,400,284,473
+data/train/frame_1221.jpg,No finding,0,0,0,1,1
+data/train/frame_1222.jpg,Allianz,1,200,0,484,73
+data/train/frame_1223.jpg,Allianz,1,200,200,484,273
+data/train/frame_1224.jpg,Allianz,1,200,400,484,473
+data/train/frame_1225.jpg,Allianz,1,400,0,684,73
+data/train/frame_1226.jpg,Allianz,1,400,200,684,273
+data/train/frame_1227.jpg,Allianz,1,400,400,684,473
+data/train/frame_1228.jpg,Allianz,1,600,0,884,73
+data/train/frame_1229.jpg,Allianz,1,600,200,884,273
+data/train/frame_1230.jpg,Allianz,1,600,400,884,473
+data/train/frame_1231.jpg,No finding,0,0,0,1,1
+data/train/frame_1232.jpg,Allianz,1,0,0,284,73
+data/train/frame_1233.jpg,Allianz,1,0,200,284,273
+data/train/frame_1234.jpg,Allianz,1,0,400,284,473
+data/train/frame_1235.jpg,Allianz,1,200,0,484,73
+data/train/frame_1236.jpg,Allianz,1,200,200,484,273
+data/train/frame_1237.jpg,Allianz,1,200,400,484,473
+data/train/frame_1238.jpg,Allianz,1,400,0,684,73
+data/train/frame_1239.jpg,Allianz,1,400,200,684,273
+data/train/frame_1240.jpg,Allianz,1,400,400,684,473
+data/train/frame_1241.jpg,No finding,0,0,0,1,1
+data/train/frame_1242.jpg,Allianz,1,600,0,884,73
+data/train/frame_1243.jpg,Allianz,1,600,200,884,273
+data/train/frame_1244.jpg,Allianz,1,600,400,884,473
+data/train/frame_1245.jpg,Allianz,1,0,0,284,73
+data/train/frame_1246.jpg,Allianz,1,0,200,284,273
+data/train/frame_1247.jpg,Allianz,1,0,400,284,473
+data/train/frame_1248.jpg,Allianz,1,200,0,484,73
+data/train/frame_1249.jpg,Allianz,1,200,200,484,273
+data/train/frame_1250.jpg,Allianz,1,200,400,484,473
+data/train/frame_1251.jpg,No finding,0,0,0,1,1
+data/train/frame_1252.jpg,Allianz,1,400,0,684,73
+data/train/frame_1253.jpg,Allianz,1,400,200,684,273
+data/train/frame_1254.jpg,Allianz,1,400,400,684,473
+data/train/frame_1255.jpg,Allianz,1,600,0,884,73
+data/train/frame_1256.jpg,Allianz,1,600,200,884,273
+data/train/frame_1257.jpg,Allianz,1,600,400,884,473
+data/train/frame_1258.jpg,Allianz,1,0,0,284,73
+data/train/frame_1259.jpg,Allianz,1,0,200,284,273
+data/train/frame_1260.jpg,Allianz,1,0,400,284,473
+data/train/frame_1261.jpg,No finding,0,0,0,1,1
+data/train/frame_1262.jpg,Allianz,1,200,0,484,73
+data/train/frame_1263.jpg,Allianz,1,200,200,484,273
+data/train/frame_1264.jpg,Allianz,1,200,400,484,473
+data/train/frame_1265.jpg,Allianz,1,400,0,684,73
+data/train/frame_1266.jpg,Allianz,1,400,200,684,273
+data/train/frame_1267.jpg,Allianz,1,400,400,684,473
+data/train/frame_1268.jpg,Allianz,1,600,0,884,73
+data/train/frame_1269.jpg,Allianz,1,600,200,884,273
+data/train/frame_1270.jpg,Allianz,1,600,400,884,473
+data/train/frame_1271.jpg,No finding,0,0,0,1,1
+data/train/frame_1272.jpg,Allianz,1,0,0,284,73
+data/train/frame_1273.jpg,Allianz,1,0,200,284,273
+data/train/frame_1274.jpg,Allianz,1,0,400,284,473
+data/train/frame_1275.jpg,Allianz,1,200,0,484,73
+data/train/frame_1276.jpg,Allianz,1,200,200,484,273
+data/train/frame_1277.jpg,Allianz,1,200,400,484,473
+data/train/frame_1278.jpg,Allianz,1,400,0,684,73
+data/train/frame_1279.jpg,Allianz,1,400,200,684,273
+data/train/frame_1280.jpg,Allianz,1,400,400,684,473
+data/train/frame_1281.jpg,No finding,0,0,0,1,1
+data/train/frame_1282.jpg,Allianz,1,600,0,884,73
+data/train/frame_1283.jpg,Allianz,1,600,200,884,273
+data/train/frame_1284.jpg,Allianz,1,600,400,884,473
+data/train/frame_1285.jpg,Allianz,1,0,0,284,73
+data/train/frame_1286.jpg,Allianz,1,0,200,284,273
+data/train/frame_1287.jpg,Allianz,1,0,400,284,473
+data/train/frame_1288.jpg,Allianz,1,200,0,484,73
+data/train/frame_1289.jpg,Allianz,1,200,200,484,273
+data/train/frame_1290.jpg,Allianz,1,200,400,484,473
+data/train/frame_1291.jpg,No finding,0,0,0,1,1
+data/train/frame_1292.jpg,Allianz,1,400,0,684,73
+data/train/frame_1293.jpg,Allianz,1,400,200,684,273
+data/train/frame_1294.jpg,Allianz,1,400,400,684,473
+data/train/frame_1295.jpg,Allianz,1,600,0,884,73
+data/train/frame_1296.jpg,Allianz,1,600,200,884,273
+data/train/frame_1297.jpg,Allianz,1,600,400,884,473
+data/train/frame_1298.jpg,Allianz,1,0,0,284,73
+data/train/frame_1299.jpg,Allianz,1,0,200,284,273
+data/train/frame_1300.jpg,Allianz,1,0,400,284,473
+data/train/frame_1301.jpg,No finding,0,0,0,1,1
+data/train/frame_1302.jpg,Allianz,1,200,0,484,73
+data/train/frame_1303.jpg,Allianz,1,200,200,484,273
+data/train/frame_1304.jpg,Allianz,1,200,400,484,473
+data/train/frame_1305.jpg,Allianz,1,400,0,684,73
+data/train/frame_1306.jpg,Allianz,1,400,200,684,273
+data/train/frame_1307.jpg,Allianz,1,400,400,684,473
+data/train/frame_1308.jpg,Allianz,1,600,0,884,73
+data/train/frame_1309.jpg,Allianz,1,600,200,884,273
+data/train/frame_1310.jpg,Allianz,1,600,400,884,473
+data/train/frame_1311.jpg,No finding,0,0,0,1,1
+data/train/frame_1312.jpg,Allianz,1,0,0,284,73
+data/train/frame_1313.jpg,Allianz,1,0,200,284,273
+data/train/frame_1314.jpg,Allianz,1,0,400,284,473
+data/train/frame_1315.jpg,Allianz,1,200,0,484,73
+data/train/frame_1316.jpg,Allianz,1,200,200,484,273
+data/train/frame_1317.jpg,Allianz,1,200,400,484,473
+data/train/frame_1318.jpg,Allianz,1,400,0,684,73
+data/train/frame_1319.jpg,Allianz,1,400,200,684,273
+data/train/frame_1320.jpg,Allianz,1,400,400,684,473
+data/train/frame_1321.jpg,No finding,0,0,0,1,1
+data/train/frame_1322.jpg,Allianz,1,600,0,884,73
+data/train/frame_1323.jpg,Allianz,1,600,200,884,273
+data/train/frame_1324.jpg,Allianz,1,600,400,884,473
+data/train/frame_1325.jpg,Allianz,1,0,0,284,73
+data/train/frame_1326.jpg,Allianz,1,0,200,284,273
+data/train/frame_1327.jpg,Allianz,1,0,400,284,473
+data/train/frame_1328.jpg,Allianz,1,200,0,484,73
+data/train/frame_1329.jpg,Allianz,1,200,200,484,273
+data/train/frame_1330.jpg,Allianz,1,200,400,484,473
+data/train/frame_1331.jpg,No finding,0,0,0,1,1
+data/train/frame_1332.jpg,Allianz,1,400,0,684,73
+data/train/frame_1333.jpg,Allianz,1,400,200,684,273
+data/train/frame_1334.jpg,Allianz,1,400,400,684,473
+data/train/frame_1335.jpg,Allianz,1,600,0,884,73
+data/train/frame_1336.jpg,Allianz,1,600,200,884,273
+data/train/frame_1337.jpg,Allianz,1,600,400,884,473
+data/train/frame_1338.jpg,Allianz,1,0,0,284,73
+data/train/frame_1339.jpg,Allianz,1,0,200,284,273
+data/train/frame_1340.jpg,Allianz,1,0,400,284,473
+data/train/frame_1341.jpg,No finding,0,0,0,1,1
+data/train/frame_1342.jpg,Allianz,1,200,0,484,73
+data/train/frame_1343.jpg,Allianz,1,200,200,484,273
+data/train/frame_1344.jpg,Allianz,1,200,400,484,473
+data/train/frame_1345.jpg,Allianz,1,400,0,684,73
+data/train/frame_1346.jpg,Allianz,1,400,200,684,273
+data/train/frame_1347.jpg,Allianz,1,400,400,684,473
+data/train/frame_1348.jpg,Allianz,1,600,0,884,73
+data/train/frame_1349.jpg,Allianz,1,600,200,884,273
+data/train/frame_1350.jpg,Allianz,1,600,400,884,473
+data/train/frame_1351.jpg,No finding,0,0,0,1,1
+data/train/frame_1352.jpg,Allianz,1,0,0,284,73
+data/train/frame_1353.jpg,Allianz,1,0,200,284,273
+data/train/frame_1354.jpg,Allianz,1,0,400,284,473
+data/train/frame_1355.jpg,Allianz,1,200,0,484,73
+data/train/frame_1356.jpg,Allianz,1,200,200,484,273
+data/train/frame_1357.jpg,Allianz,1,200,400,484,473
+data/train/frame_1358.jpg,Allianz,1,400,0,684,73
+data/train/frame_1359.jpg,Allianz,1,400,200,684,273
+data/train/frame_1360.jpg,Allianz,1,400,400,684,473
+data/train/frame_1361.jpg,No finding,0,0,0,1,1
+data/train/frame_1362.jpg,Allianz,1,600,0,884,73
+data/train/frame_1363.jpg,Allianz,1,600,200,884,273
+data/train/frame_1364.jpg,Allianz,1,600,400,884,473
+data/train/frame_1365.jpg,Allianz,1,0,0,284,73
+data/train/frame_1366.jpg,Allianz,1,0,200,284,273
+data/train/frame_1367.jpg,Allianz,1,0,400,284,473
+data/train/frame_1368.jpg,Allianz,1,200,0,484,73
+data/train/frame_1369.jpg,Allianz,1,200,200,484,273
+data/train/frame_1370.jpg,Allianz,1,200,400,484,473
+data/train/frame_1371.jpg,No finding,0,0,0,1,1
+data/train/frame_1372.jpg,Allianz,1,400,0,684,73
+data/train/frame_1373.jpg,Allianz,1,400,200,684,273
+data/train/frame_1374.jpg,Allianz,1,400,400,684,473
+data/train/frame_1375.jpg,Allianz,1,600,0,884,73
+data/train/frame_1376.jpg,Allianz,1,600,200,884,273
+data/train/frame_1377.jpg,Allianz,1,600,400,884,473
+data/train/frame_1378.jpg,Allianz,1,0,0,285,74
+data/train/frame_1379.jpg,Allianz,1,0,200,285,274
+data/train/frame_1380.jpg,Allianz,1,0,400,285,474
+data/train/frame_1381.jpg,No finding,0,0,0,1,1
+data/train/frame_1382.jpg,Allianz,1,0,600,285,674
+data/train/frame_1383.jpg,Allianz,1,200,0,485,74
+data/train/frame_1384.jpg,Allianz,1,200,200,485,274
+data/train/frame_1385.jpg,Allianz,1,200,400,485,474
+data/train/frame_1386.jpg,Allianz,1,200,600,485,674
+data/train/frame_1387.jpg,Allianz,1,400,0,685,74
+data/train/frame_1388.jpg,Allianz,1,400,200,685,274
+data/train/frame_1389.jpg,Allianz,1,400,400,685,474
+data/train/frame_1390.jpg,Allianz,1,400,600,685,674
+data/train/frame_1391.jpg,No finding,0,0,0,1,1
+data/train/frame_1392.jpg,Allianz,1,600,0,885,74
+data/train/frame_1393.jpg,Allianz,1,600,200,885,274
+data/train/frame_1394.jpg,Allianz,1,600,400,885,474
+data/train/frame_1395.jpg,Allianz,1,600,600,885,674
+data/train/frame_1396.jpg,Allianz,1,0,0,285,74
+data/train/frame_1397.jpg,Allianz,1,0,200,285,274
+data/train/frame_1398.jpg,Allianz,1,0,400,285,474
+data/train/frame_1399.jpg,Allianz,1,0,600,285,674
+data/train/frame_1400.jpg,Allianz,1,200,0,485,74
+data/train/frame_1401.jpg,No finding,0,0,0,1,1
+data/train/frame_1402.jpg,Allianz,1,200,200,485,274
+data/train/frame_1403.jpg,Allianz,1,200,400,485,474
+data/train/frame_1404.jpg,Allianz,1,200,600,485,674
+data/train/frame_1405.jpg,Allianz,1,400,0,685,74
+data/train/frame_1406.jpg,Allianz,1,400,200,685,274
+data/train/frame_1407.jpg,Allianz,1,400,400,685,474
+data/train/frame_1408.jpg,Allianz,1,400,600,685,674
+data/train/frame_1409.jpg,Allianz,1,600,0,885,74
+data/train/frame_1410.jpg,Allianz,1,600,200,885,274
+data/train/frame_1411.jpg,No finding,0,0,0,1,1
+data/train/frame_1412.jpg,Allianz,1,600,400,885,474
+data/train/frame_1413.jpg,Allianz,1,600,600,885,674
+data/train/frame_1414.jpg,Allianz,1,0,0,285,74
+data/train/frame_1415.jpg,Allianz,1,0,200,285,274
+data/train/frame_1416.jpg,Allianz,1,0,400,285,474
+data/train/frame_1417.jpg,Allianz,1,0,600,285,674
+data/train/frame_1418.jpg,Allianz,1,200,0,485,74
+data/train/frame_1419.jpg,Allianz,1,200,200,485,274
+data/train/frame_1420.jpg,Allianz,1,200,400,485,474
+data/train/frame_1421.jpg,No finding,0,0,0,1,1
+data/train/frame_1422.jpg,Allianz,1,200,600,485,674
+data/train/frame_1423.jpg,Allianz,1,400,0,685,74
+data/train/frame_1424.jpg,Allianz,1,400,200,685,274
+data/train/frame_1425.jpg,Allianz,1,400,400,685,474
+data/train/frame_1426.jpg,Allianz,1,400,600,685,674
+data/train/frame_1427.jpg,Allianz,1,600,0,885,74
+data/train/frame_1428.jpg,Allianz,1,600,200,885,274
+data/train/frame_1429.jpg,Allianz,1,600,400,885,474
+data/train/frame_1430.jpg,Allianz,1,600,600,885,674
+data/train/frame_1431.jpg,No finding,0,0,0,1,1
+data/train/frame_1432.jpg,Allianz,1,0,0,285,74
+data/train/frame_1433.jpg,Allianz,1,0,200,285,274
+data/train/frame_1434.jpg,Allianz,1,0,400,285,474
+data/train/frame_1435.jpg,Allianz,1,0,600,285,674
+data/train/frame_1436.jpg,Allianz,1,200,0,485,74
+data/train/frame_1437.jpg,Allianz,1,200,200,485,274
+data/train/frame_1438.jpg,Allianz,1,200,400,485,474
+data/train/frame_1439.jpg,Allianz,1,200,600,485,674
+data/train/frame_1440.jpg,Allianz,1,400,0,685,74
+data/train/frame_1441.jpg,No finding,0,0,0,1,1
+data/train/frame_1442.jpg,Allianz,1,400,200,685,274
+data/train/frame_1443.jpg,Allianz,1,400,400,685,474
+data/train/frame_1444.jpg,Allianz,1,400,600,685,674
+data/train/frame_1445.jpg,Allianz,1,600,0,885,74
+data/train/frame_1446.jpg,Allianz,1,600,200,885,274
+data/train/frame_1447.jpg,Allianz,1,600,400,885,474
+data/train/frame_1448.jpg,Allianz,1,600,600,885,674
+data/train/frame_1449.jpg,Allianz,1,0,0,285,74
+data/train/frame_1450.jpg,Allianz,1,0,200,285,274
+data/train/frame_1451.jpg,No finding,0,0,0,1,1
+data/train/frame_1452.jpg,Allianz,1,0,400,285,474
+data/train/frame_1453.jpg,Allianz,1,0,600,285,674
+data/train/frame_1454.jpg,Allianz,1,200,0,485,74
+data/train/frame_1455.jpg,Allianz,1,200,200,485,274
+data/train/frame_1456.jpg,Allianz,1,200,400,485,474
+data/train/frame_1457.jpg,Allianz,1,200,600,485,674
+data/train/frame_1458.jpg,Allianz,1,400,0,685,74
+data/train/frame_1459.jpg,Allianz,1,400,200,685,274
+data/train/frame_1460.jpg,Allianz,1,400,400,685,474
+data/train/frame_1461.jpg,No finding,0,0,0,1,1
+data/train/frame_1462.jpg,Allianz,1,400,600,685,674
+data/train/frame_1463.jpg,Allianz,1,600,0,885,74
+data/train/frame_1464.jpg,Allianz,1,600,200,885,274
+data/train/frame_1465.jpg,Allianz,1,600,400,885,474
+data/train/frame_1466.jpg,Allianz,1,600,600,885,674
+data/train/frame_1467.jpg,Allianz,1,0,0,285,74
+data/train/frame_1468.jpg,Allianz,1,0,200,285,274
+data/train/frame_1469.jpg,Allianz,1,0,400,285,474
+data/train/frame_1470.jpg,Allianz,1,0,600,285,674
+data/train/frame_1471.jpg,No finding,0,0,0,1,1
+data/train/frame_1472.jpg,Allianz,1,200,0,485,74
+data/train/frame_1473.jpg,Allianz,1,200,200,485,274
+data/train/frame_1474.jpg,Allianz,1,200,400,485,474
+data/train/frame_1475.jpg,Allianz,1,200,600,485,674
+data/train/frame_1476.jpg,Allianz,1,400,0,685,74
+data/train/frame_1477.jpg,Allianz,1,400,200,685,274
+data/train/frame_1478.jpg,Allianz,1,400,400,685,474
+data/train/frame_1479.jpg,Allianz,1,400,600,685,674
+data/train/frame_1480.jpg,Allianz,1,600,0,885,74
+data/train/frame_1481.jpg,No finding,0,0,0,1,1
+data/train/frame_1482.jpg,Allianz,1,600,200,885,274
+data/train/frame_1483.jpg,Allianz,1,600,400,885,474
+data/train/frame_1484.jpg,Allianz,1,600,600,885,674
+data/train/frame_1485.jpg,Allianz,1,0,0,285,74
+data/train/frame_1486.jpg,Allianz,1,0,200,285,274
+data/train/frame_1487.jpg,Allianz,1,0,400,285,474
+data/train/frame_1488.jpg,Allianz,1,0,600,285,674
+data/train/frame_1489.jpg,Allianz,1,200,0,485,74
+data/train/frame_1490.jpg,Allianz,1,200,200,485,274
+data/train/frame_1491.jpg,No finding,0,0,0,1,1
+data/train/frame_1492.jpg,Allianz,1,200,400,485,474
+data/train/frame_1493.jpg,Allianz,1,200,600,485,674
+data/train/frame_1494.jpg,Allianz,1,400,0,685,74
+data/train/frame_1495.jpg,Allianz,1,400,200,685,274
+data/train/frame_1496.jpg,Allianz,1,400,400,685,474
+data/train/frame_1497.jpg,Allianz,1,400,600,685,674
+data/train/frame_1498.jpg,Allianz,1,600,0,885,74
+data/train/frame_1499.jpg,Allianz,1,600,200,885,274
+data/train/frame_1500.jpg,Allianz,1,600,400,885,474
+data/train/frame_1501.jpg,No finding,0,0,0,1,1
+data/train/frame_1502.jpg,Allianz,1,600,600,885,674
+data/train/frame_1503.jpg,Allianz,1,0,0,285,74
+data/train/frame_1504.jpg,Allianz,1,0,200,285,274
+data/train/frame_1505.jpg,Allianz,1,0,400,285,474
+data/train/frame_1506.jpg,Allianz,1,0,600,285,674
+data/train/frame_1507.jpg,Allianz,1,200,0,485,74
+data/train/frame_1508.jpg,Allianz,1,200,200,485,274
+data/train/frame_1509.jpg,Allianz,1,200,400,485,474
+data/train/frame_1510.jpg,Allianz,1,200,600,485,674
+data/train/frame_1511.jpg,No finding,0,0,0,1,1
+data/train/frame_1512.jpg,Allianz,1,400,0,685,74
+data/train/frame_1513.jpg,Allianz,1,400,200,685,274
+data/train/frame_1514.jpg,Allianz,1,400,400,685,474
+data/train/frame_1515.jpg,Allianz,1,400,600,685,674
+data/train/frame_1516.jpg,Allianz,1,600,0,885,74
+data/train/frame_1517.jpg,Allianz,1,600,200,885,274
+data/train/frame_1518.jpg,Allianz,1,600,400,885,474
+data/train/frame_1519.jpg,Allianz,1,600,600,885,674
+data/train/frame_1520.jpg,Allianz,1,0,0,285,74
+data/train/frame_1521.jpg,No finding,0,0,0,1,1
+data/train/frame_1522.jpg,Allianz,1,0,200,285,274
+data/train/frame_1523.jpg,Allianz,1,0,400,285,474
+data/train/frame_1524.jpg,Allianz,1,0,600,285,674
+data/train/frame_1525.jpg,Allianz,1,200,0,485,74
+data/train/frame_1526.jpg,Allianz,1,200,200,485,274
+data/train/frame_1527.jpg,Allianz,1,200,400,485,474
+data/train/frame_1528.jpg,Allianz,1,200,600,485,674
+data/train/frame_1529.jpg,Allianz,1,400,0,685,74
+data/train/frame_1530.jpg,Allianz,1,400,200,685,274
+data/train/frame_1531.jpg,No finding,0,0,0,1,1
+data/train/frame_1532.jpg,Allianz,1,400,400,685,474
+data/train/frame_1533.jpg,Allianz,1,400,600,685,674
+data/train/frame_1534.jpg,Allianz,1,600,0,885,74
+data/train/frame_1535.jpg,Allianz,1,600,200,885,274
+data/train/frame_1536.jpg,Allianz,1,600,400,885,474
+data/train/frame_1537.jpg,Allianz,1,600,600,885,674
+data/train/frame_1538.jpg,Allianz,1,0,0,285,74
+data/train/frame_1539.jpg,Allianz,1,0,200,285,274
+data/train/frame_1540.jpg,Allianz,1,0,400,285,474
+data/train/frame_1541.jpg,No finding,0,0,0,1,1
+data/train/frame_1542.jpg,Allianz,1,0,600,285,674
+data/train/frame_1543.jpg,Allianz,1,200,0,485,74
+data/train/frame_1544.jpg,Allianz,1,200,200,485,274
+data/train/frame_1545.jpg,Allianz,1,200,400,485,474
+data/train/frame_1546.jpg,Allianz,1,200,600,485,674
+data/train/frame_1547.jpg,Allianz,1,400,0,685,74
+data/train/frame_1548.jpg,Allianz,1,400,200,685,274
+data/train/frame_1549.jpg,Allianz,1,400,400,685,474
+data/train/frame_1550.jpg,Allianz,1,400,600,685,674
+data/train/frame_1551.jpg,No finding,0,0,0,1,1
+data/train/frame_1552.jpg,Allianz,1,600,0,885,74
+data/train/frame_1553.jpg,Allianz,1,600,200,885,274
+data/train/frame_1554.jpg,Allianz,1,600,400,885,474
+data/train/frame_1555.jpg,Allianz,1,600,600,885,674
+data/train/frame_1556.jpg,Allianz,1,0,0,379,98
+data/train/frame_1557.jpg,Allianz,1,0,200,379,298
+data/train/frame_1558.jpg,Allianz,1,0,400,379,498
+data/train/frame_1559.jpg,Allianz,1,200,0,579,98
+data/train/frame_1560.jpg,Allianz,1,200,200,579,298
+data/train/frame_1561.jpg,No finding,0,0,0,1,1
+data/train/frame_1562.jpg,Allianz,1,200,400,579,498
+data/train/frame_1563.jpg,Allianz,1,400,0,779,98
+data/train/frame_1564.jpg,Allianz,1,400,200,779,298
+data/train/frame_1565.jpg,Allianz,1,400,400,779,498
+data/train/frame_1566.jpg,Allianz,1,600,0,979,98
+data/train/frame_1567.jpg,Allianz,1,600,200,979,298
+data/train/frame_1568.jpg,Allianz,1,600,400,979,498
+data/train/frame_1569.jpg,Allianz,1,0,0,379,98
+data/train/frame_1570.jpg,Allianz,1,0,200,379,298
+data/train/frame_1571.jpg,No finding,0,0,0,1,1
+data/train/frame_1572.jpg,Allianz,1,0,400,379,498
+data/train/frame_1573.jpg,Allianz,1,200,0,579,98
+data/train/frame_1574.jpg,Allianz,1,200,200,579,298
+data/train/frame_1575.jpg,Allianz,1,200,400,579,498
+data/train/frame_1576.jpg,Allianz,1,400,0,779,98
+data/train/frame_1577.jpg,Allianz,1,400,200,779,298
+data/train/frame_1578.jpg,Allianz,1,400,400,779,498
+data/train/frame_1579.jpg,Allianz,1,600,0,979,98
+data/train/frame_1580.jpg,Allianz,1,600,200,979,298
+data/train/frame_1581.jpg,No finding,0,0,0,1,1
+data/train/frame_1582.jpg,Allianz,1,600,400,979,498
+data/train/frame_1583.jpg,Allianz,1,0,0,379,98
+data/train/frame_1584.jpg,Allianz,1,0,200,379,298
+data/train/frame_1585.jpg,Allianz,1,0,400,379,498
+data/train/frame_1586.jpg,Allianz,1,200,0,579,98
+data/train/frame_1587.jpg,Allianz,1,200,200,579,298
+data/train/frame_1588.jpg,Allianz,1,200,400,579,498
+data/train/frame_1589.jpg,Allianz,1,400,0,779,98
+data/train/frame_1590.jpg,Allianz,1,400,200,779,298
+data/train/frame_1591.jpg,No finding,0,0,0,1,1
+data/train/frame_1592.jpg,Allianz,1,400,400,779,498
+data/train/frame_1593.jpg,Allianz,1,600,0,979,98
+data/train/frame_1594.jpg,Allianz,1,600,200,979,298
+data/train/frame_1595.jpg,Allianz,1,600,400,979,498
+data/train/frame_1596.jpg,Allianz,1,0,0,379,98
+data/train/frame_1597.jpg,Allianz,1,0,200,379,298
+data/train/frame_1598.jpg,Allianz,1,0,400,379,498
+data/train/frame_1599.jpg,Allianz,1,200,0,579,98
+data/train/frame_1600.jpg,Allianz,1,200,200,579,298
+data/train/frame_1601.jpg,No finding,0,0,0,1,1
+data/train/frame_1602.jpg,Allianz,1,200,400,579,498
+data/train/frame_1603.jpg,Allianz,1,400,0,779,98
+data/train/frame_1604.jpg,Allianz,1,400,200,779,298
+data/train/frame_1605.jpg,Allianz,1,400,400,779,498
+data/train/frame_1606.jpg,Allianz,1,600,0,979,98
+data/train/frame_1607.jpg,Allianz,1,600,200,979,298
+data/train/frame_1608.jpg,Allianz,1,600,400,979,498
+data/train/frame_1609.jpg,Allianz,1,0,0,379,98
+data/train/frame_1610.jpg,Allianz,1,0,200,379,298
+data/train/frame_1611.jpg,No finding,0,0,0,1,1
+data/train/frame_1612.jpg,Allianz,1,0,400,379,498
+data/train/frame_1613.jpg,Allianz,1,200,0,579,98
+data/train/frame_1614.jpg,Allianz,1,200,200,579,298
+data/train/frame_1615.jpg,Allianz,1,200,400,579,498
+data/train/frame_1616.jpg,Allianz,1,400,0,779,98
+data/train/frame_1617.jpg,Allianz,1,400,200,779,298
+data/train/frame_1618.jpg,Allianz,1,400,400,779,498
+data/train/frame_1619.jpg,Allianz,1,600,0,979,98
+data/train/frame_1620.jpg,Allianz,1,600,200,979,298
+data/train/frame_1621.jpg,No finding,0,0,0,1,1
+data/train/frame_1622.jpg,Allianz,1,600,400,979,498
+data/train/frame_1623.jpg,Allianz,1,0,0,379,98
+data/train/frame_1624.jpg,Allianz,1,0,200,379,298
+data/train/frame_1625.jpg,Allianz,1,0,400,379,498
+data/train/frame_1626.jpg,Allianz,1,200,0,579,98
+data/train/frame_1627.jpg,Allianz,1,200,200,579,298
+data/train/frame_1628.jpg,Allianz,1,200,400,579,498
+data/train/frame_1629.jpg,Allianz,1,400,0,779,98
+data/train/frame_1630.jpg,Allianz,1,400,200,779,298
+data/train/frame_1631.jpg,No finding,0,0,0,1,1
+data/train/frame_1632.jpg,Allianz,1,400,400,779,498
+data/train/frame_1633.jpg,Allianz,1,600,0,979,98
+data/train/frame_1634.jpg,Allianz,1,600,200,979,298
+data/train/frame_1635.jpg,Allianz,1,600,400,979,498
+data/train/frame_1636.jpg,Allianz,1,0,0,379,98
+data/train/frame_1637.jpg,Allianz,1,0,200,379,298
+data/train/frame_1638.jpg,Allianz,1,0,400,379,498
+data/train/frame_1639.jpg,Allianz,1,200,0,579,98
+data/train/frame_1640.jpg,Allianz,1,200,200,579,298
+data/train/frame_1641.jpg,No finding,0,0,0,1,1
+data/train/frame_1642.jpg,Allianz,1,200,400,579,498
+data/train/frame_1643.jpg,Allianz,1,400,0,779,98
+data/train/frame_1644.jpg,Allianz,1,400,200,779,298
+data/train/frame_1645.jpg,Allianz,1,400,400,779,498
+data/train/frame_1646.jpg,Allianz,1,600,0,979,98
+data/train/frame_1647.jpg,Allianz,1,600,200,979,298
+data/train/frame_1648.jpg,Allianz,1,600,400,979,498
+data/train/frame_1649.jpg,Allianz,1,0,0,379,98
+data/train/frame_1650.jpg,Allianz,1,0,200,379,298
+data/train/frame_1651.jpg,No finding,0,0,0,1,1
+data/train/frame_1652.jpg,Allianz,1,0,400,379,498
+data/train/frame_1653.jpg,Allianz,1,200,0,579,98
+data/train/frame_1654.jpg,Allianz,1,200,200,579,298
+data/train/frame_1655.jpg,Allianz,1,200,400,579,498
+data/train/frame_1656.jpg,Allianz,1,400,0,779,98
+data/train/frame_1657.jpg,Allianz,1,400,200,779,298
+data/train/frame_1658.jpg,Allianz,1,400,400,779,498
+data/train/frame_1659.jpg,Allianz,1,600,0,979,98
+data/train/frame_1660.jpg,Allianz,1,600,200,979,298
+data/train/frame_1661.jpg,No finding,0,0,0,1,1
+data/train/frame_1662.jpg,Allianz,1,600,400,979,498
+data/train/frame_1663.jpg,Allianz,1,0,0,379,98
+data/train/frame_1664.jpg,Allianz,1,0,200,379,298
+data/train/frame_1665.jpg,Allianz,1,0,400,379,498
+data/train/frame_1666.jpg,Allianz,1,200,0,579,98
+data/train/frame_1667.jpg,Allianz,1,200,200,579,298
+data/train/frame_1668.jpg,Allianz,1,200,400,579,498
+data/train/frame_1669.jpg,Allianz,1,400,0,779,98
+data/train/frame_1670.jpg,Allianz,1,400,200,779,298
+data/train/frame_1671.jpg,No finding,0,0,0,1,1
+data/train/frame_1672.jpg,Allianz,1,400,400,779,498
+data/train/frame_1673.jpg,Allianz,1,600,0,979,98
+data/train/frame_1674.jpg,Allianz,1,600,200,979,298
+data/train/frame_1675.jpg,Allianz,1,600,400,979,498
+data/train/frame_1676.jpg,Allianz,1,0,0,379,98
+data/train/frame_1677.jpg,Allianz,1,0,200,379,298
+data/train/frame_1678.jpg,Allianz,1,0,400,379,498
+data/train/frame_1679.jpg,Allianz,1,200,0,579,98
+data/train/frame_1680.jpg,Allianz,1,200,200,579,298
+data/train/frame_1681.jpg,No finding,0,0,0,1,1
+data/train/frame_1682.jpg,Allianz,1,200,400,579,498
+data/train/frame_1683.jpg,Allianz,1,400,0,779,98
+data/train/frame_1684.jpg,Allianz,1,400,200,779,298
+data/train/frame_1685.jpg,Allianz,1,400,400,779,498
+data/train/frame_1686.jpg,Allianz,1,600,0,979,98
+data/train/frame_1687.jpg,Allianz,1,600,200,979,298
+data/train/frame_1688.jpg,Allianz,1,600,400,979,498
+data/train/frame_1689.jpg,Allianz,1,0,0,379,98
+data/train/frame_1690.jpg,Allianz,1,0,200,379,298
+data/train/frame_1691.jpg,No finding,0,0,0,1,1
+data/train/frame_1692.jpg,Allianz,1,0,400,379,498
+data/train/frame_1693.jpg,Allianz,1,200,0,579,98
+data/train/frame_1694.jpg,Allianz,1,200,200,579,298
+data/train/frame_1695.jpg,Allianz,1,200,400,579,498
+data/train/frame_1696.jpg,Allianz,1,400,0,779,98
+data/train/frame_1697.jpg,Allianz,1,400,200,779,298
+data/train/frame_1698.jpg,Allianz,1,400,400,779,498
+data/train/frame_1699.jpg,Allianz,1,600,0,979,98
+data/train/frame_1700.jpg,Allianz,1,600,200,979,298
+data/train/frame_1701.jpg,No finding,0,0,0,1,1
+data/train/frame_1702.jpg,Allianz,1,600,400,979,498
+data/train/frame_1703.jpg,Allianz,1,0,0,379,98
+data/train/frame_1704.jpg,Allianz,1,0,200,379,298
+data/train/frame_1705.jpg,Allianz,1,0,400,379,498
+data/train/frame_1706.jpg,Allianz,1,200,0,579,98
+data/train/frame_1707.jpg,Allianz,1,200,200,579,298
+data/train/frame_1708.jpg,Allianz,1,200,400,579,498
+data/train/frame_1709.jpg,Allianz,1,400,0,779,98
+data/train/frame_1710.jpg,Allianz,1,400,200,779,298
+data/train/frame_1711.jpg,No finding,0,0,0,1,1
+data/train/frame_1712.jpg,Allianz,1,400,400,779,498
+data/train/frame_1713.jpg,Allianz,1,600,0,979,98
+data/train/frame_1714.jpg,Allianz,1,600,200,979,298
+data/train/frame_1715.jpg,Allianz,1,600,400,979,498
+data/train/frame_1716.jpg,Allianz,1,0,0,379,98
+data/train/frame_1717.jpg,Allianz,1,0,200,379,298
+data/train/frame_1718.jpg,Allianz,1,0,400,379,498
+data/train/frame_1719.jpg,Allianz,1,200,0,579,98
+data/train/frame_1720.jpg,Allianz,1,200,200,579,298
+data/train/frame_1721.jpg,No finding,0,0,0,1,1
+data/train/frame_1722.jpg,Allianz,1,200,400,579,498
+data/train/frame_1723.jpg,Allianz,1,400,0,779,98
+data/train/frame_1724.jpg,Allianz,1,400,200,779,298
+data/train/frame_1725.jpg,Allianz,1,400,400,779,498
+data/train/frame_1726.jpg,Allianz,1,600,0,979,98
+data/train/frame_1727.jpg,Allianz,1,600,200,979,298
+data/train/frame_1728.jpg,Allianz,1,600,400,979,498
+data/train/frame_1729.jpg,Allianz,1,0,0,379,98
+data/train/frame_1730.jpg,Allianz,1,0,200,379,298
+data/train/frame_1731.jpg,No finding,0,0,0,1,1
+data/train/frame_1732.jpg,Allianz,1,0,400,379,498
+data/train/frame_1733.jpg,Allianz,1,200,0,579,98
+data/train/frame_1734.jpg,Allianz,1,200,200,579,298
+data/train/frame_1735.jpg,Allianz,1,200,400,579,498
+data/train/frame_1736.jpg,Allianz,1,400,0,779,98
+data/train/frame_1737.jpg,Allianz,1,400,200,779,298
+data/train/frame_1738.jpg,Allianz,1,400,400,779,498
+data/train/frame_1739.jpg,Allianz,1,600,0,979,98
+data/train/frame_1740.jpg,Allianz,1,600,200,979,298
+data/train/frame_1741.jpg,No finding,0,0,0,1,1
+data/train/frame_1742.jpg,Allianz,1,600,400,979,498
+data/train/frame_1743.jpg,Allianz,1,0,0,379,98
+data/train/frame_1744.jpg,Allianz,1,0,200,379,298
+data/train/frame_1745.jpg,Allianz,1,0,400,379,498
+data/train/frame_1746.jpg,Allianz,1,200,0,579,98
+data/train/frame_1747.jpg,Allianz,1,200,200,579,298
+data/train/frame_1748.jpg,Allianz,1,200,400,579,498
+data/train/frame_1749.jpg,Allianz,1,400,0,779,98
+data/train/frame_1750.jpg,Allianz,1,400,200,779,298
+data/train/frame_1751.jpg,No finding,0,0,0,1,1
+data/train/frame_1752.jpg,Allianz,1,400,400,779,498
+data/train/frame_1753.jpg,Allianz,1,600,0,979,98
+data/train/frame_1754.jpg,Allianz,1,600,200,979,298
+data/train/frame_1755.jpg,Allianz,1,600,400,979,498
+data/train/frame_1756.jpg,Allianz,1,0,0,379,98
+data/train/frame_1757.jpg,Allianz,1,0,200,379,298
+data/train/frame_1758.jpg,Allianz,1,0,400,379,498
+data/train/frame_1759.jpg,Allianz,1,200,0,579,98
+data/train/frame_1760.jpg,Allianz,1,200,200,579,298
+data/train/frame_1761.jpg,No finding,0,0,0,1,1
+data/train/frame_1762.jpg,Allianz,1,200,400,579,498
+data/train/frame_1763.jpg,Allianz,1,400,0,779,98
+data/train/frame_1764.jpg,Allianz,1,400,200,779,298
+data/train/frame_1765.jpg,Allianz,1,400,400,779,498
+data/train/frame_1766.jpg,Allianz,1,600,0,979,98
+data/train/frame_1767.jpg,Allianz,1,600,200,979,298
+data/train/frame_1768.jpg,Allianz,1,600,400,979,498
+data/train/frame_1769.jpg,Allianz,1,0,0,379,98
+data/train/frame_1770.jpg,Allianz,1,0,200,379,298
+data/train/frame_1771.jpg,No finding,0,0,0,1,1
+data/train/frame_1772.jpg,Allianz,1,0,400,379,498
+data/train/frame_1773.jpg,Allianz,1,200,0,579,98
+data/train/frame_1774.jpg,Allianz,1,200,200,579,298
+data/train/frame_1775.jpg,Allianz,1,200,400,579,498
+data/train/frame_1776.jpg,Allianz,1,400,0,779,98
+data/train/frame_1777.jpg,Allianz,1,400,200,779,298
+data/train/frame_1778.jpg,Allianz,1,400,400,779,498
+data/train/frame_1779.jpg,Allianz,1,600,0,979,98
+data/train/frame_1780.jpg,Allianz,1,600,200,979,298
+data/train/frame_1781.jpg,No finding,0,0,0,1,1
+data/train/frame_1782.jpg,Allianz,1,600,400,979,498
+data/train/frame_1783.jpg,Allianz,1,0,0,379,98
+data/train/frame_1784.jpg,Allianz,1,0,200,379,298
+data/train/frame_1785.jpg,Allianz,1,0,400,379,498
+data/train/frame_1786.jpg,Allianz,1,200,0,579,98
+data/train/frame_1787.jpg,Allianz,1,200,200,579,298
+data/train/frame_1788.jpg,Allianz,1,200,400,579,498
+data/train/frame_1789.jpg,Allianz,1,400,0,779,98
+data/train/frame_1790.jpg,Allianz,1,400,200,779,298
+data/train/frame_1791.jpg,No finding,0,0,0,1,1
+data/train/frame_1792.jpg,Allianz,1,400,400,779,498
+data/train/frame_1793.jpg,Allianz,1,600,0,979,98
+data/train/frame_1794.jpg,Allianz,1,600,200,979,298
+data/train/frame_1795.jpg,Allianz,1,600,400,979,498
+data/train/frame_1796.jpg,Allianz,1,0,0,379,98
+data/train/frame_1797.jpg,Allianz,1,0,200,379,298
+data/train/frame_1798.jpg,Allianz,1,0,400,379,498
+data/train/frame_1799.jpg,Allianz,1,200,0,579,98
+data/train/frame_1800.jpg,Allianz,1,200,200,579,298
+data/train/frame_1801.jpg,No finding,0,0,0,1,1
+data/train/frame_1802.jpg,Allianz,1,200,400,579,498
+data/train/frame_1803.jpg,Allianz,1,400,0,779,98
+data/train/frame_1804.jpg,Allianz,1,400,200,779,298
+data/train/frame_1805.jpg,Allianz,1,400,400,779,498
+data/train/frame_1806.jpg,Allianz,1,600,0,979,98
+data/train/frame_1807.jpg,Allianz,1,600,200,979,298
+data/train/frame_1808.jpg,Allianz,1,600,400,979,498
+data/train/frame_1809.jpg,Allianz,1,0,0,379,98
+data/train/frame_1810.jpg,Allianz,1,0,200,379,298
+data/train/frame_1811.jpg,No finding,0,0,0,1,1
+data/train/frame_1812.jpg,Allianz,1,0,400,379,498
+data/train/frame_1813.jpg,Allianz,1,200,0,579,98
+data/train/frame_1814.jpg,Allianz,1,200,200,579,298
+data/train/frame_1815.jpg,Allianz,1,200,400,579,498
+data/train/frame_1816.jpg,Allianz,1,400,0,779,98
+data/train/frame_1817.jpg,Allianz,1,400,200,779,298
+data/train/frame_1818.jpg,Allianz,1,400,400,779,498
+data/train/frame_1819.jpg,Allianz,1,600,0,979,98
+data/train/frame_1820.jpg,Allianz,1,600,200,979,298
+data/train/frame_1821.jpg,No finding,0,0,0,1,1
+data/train/frame_1822.jpg,Allianz,1,600,400,979,498
+data/train/frame_1823.jpg,Allianz,1,0,0,380,98
+data/train/frame_1824.jpg,Allianz,1,0,200,380,298
+data/train/frame_1825.jpg,Allianz,1,0,400,380,498
+data/train/frame_1826.jpg,Allianz,1,0,600,380,698
+data/train/frame_1827.jpg,Allianz,1,200,0,580,98
+data/train/frame_1828.jpg,Allianz,1,200,200,580,298
+data/train/frame_1829.jpg,Allianz,1,200,400,580,498
+data/train/frame_1830.jpg,Allianz,1,200,600,580,698
+data/train/frame_1831.jpg,No finding,0,0,0,1,1
+data/train/frame_1832.jpg,Allianz,1,400,0,780,98
+data/train/frame_1833.jpg,Allianz,1,400,200,780,298
+data/train/frame_1834.jpg,Allianz,1,400,400,780,498
+data/train/frame_1835.jpg,Allianz,1,400,600,780,698
+data/train/frame_1836.jpg,Allianz,1,600,0,980,98
+data/train/frame_1837.jpg,Allianz,1,600,200,980,298
+data/train/frame_1838.jpg,Allianz,1,600,400,980,498
+data/train/frame_1839.jpg,Allianz,1,600,600,980,698
+data/train/frame_1840.jpg,Allianz,1,0,0,380,98
+data/train/frame_1841.jpg,No finding,0,0,0,1,1
+data/train/frame_1842.jpg,Allianz,1,0,200,380,298
+data/train/frame_1843.jpg,Allianz,1,0,400,380,498
+data/train/frame_1844.jpg,Allianz,1,0,600,380,698
+data/train/frame_1845.jpg,Allianz,1,200,0,580,98
+data/train/frame_1846.jpg,Allianz,1,200,200,580,298
+data/train/frame_1847.jpg,Allianz,1,200,400,580,498
+data/train/frame_1848.jpg,Allianz,1,200,600,580,698
+data/train/frame_1849.jpg,Allianz,1,400,0,780,98
+data/train/frame_1850.jpg,Allianz,1,400,200,780,298
+data/train/frame_1851.jpg,No finding,0,0,0,1,1
+data/train/frame_1852.jpg,Allianz,1,400,400,780,498
+data/train/frame_1853.jpg,Allianz,1,400,600,780,698
+data/train/frame_1854.jpg,Allianz,1,600,0,980,98
+data/train/frame_1855.jpg,Allianz,1,600,200,980,298
+data/train/frame_1856.jpg,Allianz,1,600,400,980,498
+data/train/frame_1857.jpg,Allianz,1,600,600,980,698
+data/train/frame_1858.jpg,Allianz,1,0,0,380,98
+data/train/frame_1859.jpg,Allianz,1,0,200,380,298
+data/train/frame_1860.jpg,Allianz,1,0,400,380,498
+data/train/frame_1861.jpg,No finding,0,0,0,1,1
+data/train/frame_1862.jpg,Allianz,1,0,600,380,698
+data/train/frame_1863.jpg,Allianz,1,200,0,580,98
+data/train/frame_1864.jpg,Allianz,1,200,200,580,298
+data/train/frame_1865.jpg,Allianz,1,200,400,580,498
+data/train/frame_1866.jpg,Allianz,1,200,600,580,698
+data/train/frame_1867.jpg,Allianz,1,400,0,780,98
+data/train/frame_1868.jpg,Allianz,1,400,200,780,298
+data/train/frame_1869.jpg,Allianz,1,400,400,780,498
+data/train/frame_1870.jpg,Allianz,1,400,600,780,698
+data/train/frame_1871.jpg,No finding,0,0,0,1,1
+data/train/frame_1872.jpg,Allianz,1,600,0,980,98
+data/train/frame_1873.jpg,Allianz,1,600,200,980,298
+data/train/frame_1874.jpg,Allianz,1,600,400,980,498
+data/train/frame_1875.jpg,Allianz,1,600,600,980,698
+data/train/frame_1876.jpg,Allianz,1,0,0,380,98
+data/train/frame_1877.jpg,Allianz,1,0,200,380,298
+data/train/frame_1878.jpg,Allianz,1,0,400,380,498
+data/train/frame_1879.jpg,Allianz,1,0,600,380,698
+data/train/frame_1880.jpg,Allianz,1,200,0,580,98
+data/train/frame_1881.jpg,No finding,0,0,0,1,1
+data/train/frame_1882.jpg,Allianz,1,200,200,580,298
+data/train/frame_1883.jpg,Allianz,1,200,400,580,498
+data/train/frame_1884.jpg,Allianz,1,200,600,580,698
+data/train/frame_1885.jpg,Allianz,1,400,0,780,98
+data/train/frame_1886.jpg,Allianz,1,400,200,780,298
+data/train/frame_1887.jpg,Allianz,1,400,400,780,498
+data/train/frame_1888.jpg,Allianz,1,400,600,780,698
+data/train/frame_1889.jpg,Allianz,1,600,0,980,98
+data/train/frame_1890.jpg,Allianz,1,600,200,980,298
+data/train/frame_1891.jpg,No finding,0,0,0,1,1
+data/train/frame_1892.jpg,Allianz,1,600,400,980,498
+data/train/frame_1893.jpg,Allianz,1,600,600,980,698
+data/train/frame_1894.jpg,Allianz,1,0,0,380,98
+data/train/frame_1895.jpg,Allianz,1,0,200,380,298
+data/train/frame_1896.jpg,Allianz,1,0,400,380,498
+data/train/frame_1897.jpg,Allianz,1,0,600,380,698
+data/train/frame_1898.jpg,Allianz,1,200,0,580,98
+data/train/frame_1899.jpg,Allianz,1,200,200,580,298
+data/train/frame_1900.jpg,Allianz,1,200,400,580,498
+data/train/frame_1901.jpg,No finding,0,0,0,1,1
+data/train/frame_1902.jpg,Allianz,1,200,600,580,698
+data/train/frame_1903.jpg,Allianz,1,400,0,780,98
+data/train/frame_1904.jpg,Allianz,1,400,200,780,298
+data/train/frame_1905.jpg,Allianz,1,400,400,780,498
+data/train/frame_1906.jpg,Allianz,1,400,600,780,698
+data/train/frame_1907.jpg,Allianz,1,600,0,980,98
+data/train/frame_1908.jpg,Allianz,1,600,200,980,298
+data/train/frame_1909.jpg,Allianz,1,600,400,980,498
+data/train/frame_1910.jpg,Allianz,1,600,600,980,698
+data/train/frame_1911.jpg,No finding,0,0,0,1,1
+data/train/frame_1912.jpg,Allianz,1,0,0,380,98
+data/train/frame_1913.jpg,Allianz,1,0,200,380,298
+data/train/frame_1914.jpg,Allianz,1,0,400,380,498
+data/train/frame_1915.jpg,Allianz,1,0,600,380,698
+data/train/frame_1916.jpg,Allianz,1,200,0,580,98
+data/train/frame_1917.jpg,Allianz,1,200,200,580,298
+data/train/frame_1918.jpg,Allianz,1,200,400,580,498
+data/train/frame_1919.jpg,Allianz,1,200,600,580,698
+data/train/frame_1920.jpg,Allianz,1,400,0,780,98
+data/train/frame_1921.jpg,No finding,0,0,0,1,1
+data/train/frame_1922.jpg,Allianz,1,400,200,780,298
+data/train/frame_1923.jpg,Allianz,1,400,400,780,498
+data/train/frame_1924.jpg,Allianz,1,400,600,780,698
+data/train/frame_1925.jpg,Allianz,1,600,0,980,98
+data/train/frame_1926.jpg,Allianz,1,600,200,980,298
+data/train/frame_1927.jpg,Allianz,1,600,400,980,498
+data/train/frame_1928.jpg,Allianz,1,600,600,980,698
+data/train/frame_1929.jpg,Allianz,1,0,0,380,98
+data/train/frame_1930.jpg,Allianz,1,0,200,380,298
+data/train/frame_1931.jpg,No finding,0,0,0,1,1
+data/train/frame_1932.jpg,Allianz,1,0,400,380,498
+data/train/frame_1933.jpg,Allianz,1,0,600,380,698
+data/train/frame_1934.jpg,Allianz,1,200,0,580,98
+data/train/frame_1935.jpg,Allianz,1,200,200,580,298
+data/train/frame_1936.jpg,Allianz,1,200,400,580,498
+data/train/frame_1937.jpg,Allianz,1,200,600,580,698
+data/train/frame_1938.jpg,Allianz,1,400,0,780,98
+data/train/frame_1939.jpg,Allianz,1,400,200,780,298
+data/train/frame_1940.jpg,Allianz,1,400,400,780,498
+data/train/frame_1941.jpg,No finding,0,0,0,1,1
+data/train/frame_1942.jpg,Allianz,1,400,600,780,698
+data/train/frame_1943.jpg,Allianz,1,600,0,980,98
+data/train/frame_1944.jpg,Allianz,1,600,200,980,298
+data/train/frame_1945.jpg,Allianz,1,600,400,980,498
+data/train/frame_1946.jpg,Allianz,1,600,600,980,698
+data/train/frame_1947.jpg,Allianz,1,0,0,380,98
+data/train/frame_1948.jpg,Allianz,1,0,200,380,298
+data/train/frame_1949.jpg,Allianz,1,0,400,380,498
+data/train/frame_1950.jpg,Allianz,1,0,600,380,698
+data/train/frame_1951.jpg,No finding,0,0,0,1,1
+data/train/frame_1952.jpg,Allianz,1,200,0,580,98
+data/train/frame_1953.jpg,Allianz,1,200,200,580,298
+data/train/frame_1954.jpg,Allianz,1,200,400,580,498
+data/train/frame_1955.jpg,Allianz,1,200,600,580,698
+data/train/frame_1956.jpg,Allianz,1,400,0,780,98
+data/train/frame_1957.jpg,Allianz,1,400,200,780,298
+data/train/frame_1958.jpg,Allianz,1,400,400,780,498
+data/train/frame_1959.jpg,Allianz,1,400,600,780,698
+data/train/frame_1960.jpg,Allianz,1,600,0,980,98
+data/train/frame_1961.jpg,No finding,0,0,0,1,1
+data/train/frame_1962.jpg,Allianz,1,600,200,980,298
+data/train/frame_1963.jpg,Allianz,1,600,400,980,498
+data/train/frame_1964.jpg,Allianz,1,600,600,980,698
+data/train/frame_1965.jpg,Allianz,1,0,0,380,98
+data/train/frame_1966.jpg,Allianz,1,0,200,380,298
+data/train/frame_1967.jpg,Allianz,1,0,400,380,498
+data/train/frame_1968.jpg,Allianz,1,0,600,380,698
+data/train/frame_1969.jpg,Allianz,1,200,0,580,98
+data/train/frame_1970.jpg,Allianz,1,200,200,580,298
+data/train/frame_1971.jpg,No finding,0,0,0,1,1
+data/train/frame_1972.jpg,Allianz,1,200,400,580,498
+data/train/frame_1973.jpg,Allianz,1,200,600,580,698
+data/train/frame_1974.jpg,Allianz,1,400,0,780,98
+data/train/frame_1975.jpg,Allianz,1,400,200,780,298
+data/train/frame_1976.jpg,Allianz,1,400,400,780,498
+data/train/frame_1977.jpg,Allianz,1,400,600,780,698
+data/train/frame_1978.jpg,Allianz,1,600,0,980,98
+data/train/frame_1979.jpg,Allianz,1,600,200,980,298
+data/train/frame_1980.jpg,Allianz,1,600,400,980,498
+data/train/frame_1981.jpg,No finding,0,0,0,1,1
+data/train/frame_1982.jpg,Allianz,1,600,600,980,698
+data/train/frame_1983.jpg,Allianz,1,0,0,380,98
+data/train/frame_1984.jpg,Allianz,1,0,200,380,298
+data/train/frame_1985.jpg,Allianz,1,0,400,380,498
+data/train/frame_1986.jpg,Allianz,1,0,600,380,698
+data/train/frame_1987.jpg,Allianz,1,200,0,580,98
+data/train/frame_1988.jpg,Allianz,1,200,200,580,298
+data/train/frame_1989.jpg,Allianz,1,200,400,580,498
+data/train/frame_1990.jpg,Allianz,1,200,600,580,698
+data/train/frame_1991.jpg,No finding,0,0,0,1,1
+data/train/frame_1992.jpg,Allianz,1,400,0,780,98
+data/train/frame_1993.jpg,Allianz,1,400,200,780,298
+data/train/frame_1994.jpg,Allianz,1,400,400,780,498
+data/train/frame_1995.jpg,Allianz,1,400,600,780,698
+data/train/frame_1996.jpg,Allianz,1,600,0,980,98
+data/train/frame_1997.jpg,Allianz,1,600,200,980,298
+data/train/frame_1998.jpg,Allianz,1,600,400,980,498
+data/train/frame_1999.jpg,Allianz,1,600,600,980,698
+data/train/frame_2000.jpg,Allianz,1,0,0,474,122
+data/train/frame_2001.jpg,No finding,0,0,0,1,1
+data/train/frame_2002.jpg,Allianz,1,0,200,474,322
+data/train/frame_2003.jpg,Allianz,1,0,400,474,522
+data/train/frame_2004.jpg,Allianz,1,200,0,674,122
+data/train/frame_2005.jpg,Allianz,1,200,200,674,322
+data/train/frame_2006.jpg,Allianz,1,200,400,674,522
+data/train/frame_2007.jpg,Allianz,1,400,0,874,122
+data/train/frame_2008.jpg,Allianz,1,400,200,874,322
+data/train/frame_2009.jpg,Allianz,1,400,400,874,522
+data/train/frame_2010.jpg,Allianz,1,0,0,474,122
+data/train/frame_2011.jpg,No finding,0,0,0,1,1
+data/train/frame_2012.jpg,Allianz,1,0,200,474,322
+data/train/frame_2013.jpg,Allianz,1,0,400,474,522
+data/train/frame_2014.jpg,Allianz,1,200,0,674,122
+data/train/frame_2015.jpg,Allianz,1,200,200,674,322
+data/train/frame_2016.jpg,Allianz,1,200,400,674,522
+data/train/frame_2017.jpg,Allianz,1,400,0,874,122
+data/train/frame_2018.jpg,Allianz,1,400,200,874,322
+data/train/frame_2019.jpg,Allianz,1,400,400,874,522
+data/train/frame_2020.jpg,Allianz,1,0,0,474,122
+data/train/frame_2021.jpg,No finding,0,0,0,1,1
+data/train/frame_2022.jpg,Allianz,1,0,200,474,322
+data/train/frame_2023.jpg,Allianz,1,0,400,474,522
+data/train/frame_2024.jpg,Allianz,1,200,0,674,122
+data/train/frame_2025.jpg,Allianz,1,200,200,674,322
+data/train/frame_2026.jpg,Allianz,1,200,400,674,522
+data/train/frame_2027.jpg,Allianz,1,400,0,874,122
+data/train/frame_2028.jpg,Allianz,1,400,200,874,322
+data/train/frame_2029.jpg,Allianz,1,400,400,874,522
+data/train/frame_2030.jpg,Allianz,1,0,0,474,122
+data/train/frame_2031.jpg,No finding,0,0,0,1,1
+data/train/frame_2032.jpg,Allianz,1,0,200,474,322
+data/train/frame_2033.jpg,Allianz,1,0,400,474,522
+data/train/frame_2034.jpg,Allianz,1,200,0,674,122
+data/train/frame_2035.jpg,Allianz,1,200,200,674,322
+data/train/frame_2036.jpg,Allianz,1,200,400,674,522
+data/train/frame_2037.jpg,Allianz,1,400,0,874,122
+data/train/frame_2038.jpg,Allianz,1,400,200,874,322
+data/train/frame_2039.jpg,Allianz,1,400,400,874,522
+data/train/frame_2040.jpg,Allianz,1,0,0,474,122
+data/train/frame_2041.jpg,No finding,0,0,0,1,1
+data/train/frame_2042.jpg,Allianz,1,0,200,474,322
+data/train/frame_2043.jpg,Allianz,1,0,400,474,522
+data/train/frame_2044.jpg,Allianz,1,200,0,674,122
+data/train/frame_2045.jpg,Allianz,1,200,200,674,322
+data/train/frame_2046.jpg,Allianz,1,200,400,674,522
+data/train/frame_2047.jpg,Allianz,1,400,0,874,122
+data/train/frame_2048.jpg,Allianz,1,400,200,874,322
+data/train/frame_2049.jpg,Allianz,1,400,400,874,522
+data/train/frame_2050.jpg,Allianz,1,0,0,474,122
+data/train/frame_2051.jpg,No finding,0,0,0,1,1
+data/train/frame_2052.jpg,Allianz,1,0,200,474,322
+data/train/frame_2053.jpg,Allianz,1,0,400,474,522
+data/train/frame_2054.jpg,Allianz,1,200,0,674,122
+data/train/frame_2055.jpg,Allianz,1,200,200,674,322
+data/train/frame_2056.jpg,Allianz,1,200,400,674,522
+data/train/frame_2057.jpg,Allianz,1,400,0,874,122
+data/train/frame_2058.jpg,Allianz,1,400,200,874,322
+data/train/frame_2059.jpg,Allianz,1,400,400,874,522
+data/train/frame_2060.jpg,Allianz,1,0,0,474,122
+data/train/frame_2061.jpg,No finding,0,0,0,1,1
+data/train/frame_2062.jpg,Allianz,1,0,200,474,322
+data/train/frame_2063.jpg,Allianz,1,0,400,474,522
+data/train/frame_2064.jpg,Allianz,1,200,0,674,122
+data/train/frame_2065.jpg,Allianz,1,200,200,674,322
+data/train/frame_2066.jpg,Allianz,1,200,400,674,522
+data/train/frame_2067.jpg,Allianz,1,400,0,874,122
+data/train/frame_2068.jpg,Allianz,1,400,200,874,322
+data/train/frame_2069.jpg,Allianz,1,400,400,874,522
+data/train/frame_2070.jpg,Allianz,1,0,0,474,122
+data/train/frame_2071.jpg,No finding,0,0,0,1,1
+data/train/frame_2072.jpg,Allianz,1,0,200,474,322
+data/train/frame_2073.jpg,Allianz,1,0,400,474,522
+data/train/frame_2074.jpg,Allianz,1,200,0,674,122
+data/train/frame_2075.jpg,Allianz,1,200,200,674,322
+data/train/frame_2076.jpg,Allianz,1,200,400,674,522
+data/train/frame_2077.jpg,Allianz,1,400,0,874,122
+data/train/frame_2078.jpg,Allianz,1,400,200,874,322
+data/train/frame_2079.jpg,Allianz,1,400,400,874,522
+data/train/frame_2080.jpg,Allianz,1,0,0,474,122
+data/train/frame_2081.jpg,No finding,0,0,0,1,1
+data/train/frame_2082.jpg,Allianz,1,0,200,474,322
+data/train/frame_2083.jpg,Allianz,1,0,400,474,522
+data/train/frame_2084.jpg,Allianz,1,200,0,674,122
+data/train/frame_2085.jpg,Allianz,1,200,200,674,322
+data/train/frame_2086.jpg,Allianz,1,200,400,674,522
+data/train/frame_2087.jpg,Allianz,1,400,0,874,122
+data/train/frame_2088.jpg,Allianz,1,400,200,874,322
+data/train/frame_2089.jpg,Allianz,1,400,400,874,522
+data/train/frame_2090.jpg,Allianz,1,0,0,474,122
+data/train/frame_2091.jpg,No finding,0,0,0,1,1
+data/train/frame_2092.jpg,Allianz,1,0,200,474,322
+data/train/frame_2093.jpg,Allianz,1,0,400,474,522
+data/train/frame_2094.jpg,Allianz,1,200,0,674,122
+data/train/frame_2095.jpg,Allianz,1,200,200,674,322
+data/train/frame_2096.jpg,Allianz,1,200,400,674,522
+data/train/frame_2097.jpg,Allianz,1,400,0,874,122
+data/train/frame_2098.jpg,Allianz,1,400,200,874,322
+data/train/frame_2099.jpg,Allianz,1,400,400,874,522
+data/train/frame_2100.jpg,Allianz,1,0,0,474,122
+data/train/frame_2101.jpg,No finding,0,0,0,1,1
+data/train/frame_2102.jpg,Allianz,1,0,200,474,322
+data/train/frame_2103.jpg,Allianz,1,0,400,474,522
+data/train/frame_2104.jpg,Allianz,1,200,0,674,122
+data/train/frame_2105.jpg,Allianz,1,200,200,674,322
+data/train/frame_2106.jpg,Allianz,1,200,400,674,522
+data/train/frame_2107.jpg,Allianz,1,400,0,874,122
+data/train/frame_2108.jpg,Allianz,1,400,200,874,322
+data/train/frame_2109.jpg,Allianz,1,400,400,874,522
+data/train/frame_2110.jpg,Allianz,1,0,0,474,122
+data/train/frame_2111.jpg,No finding,0,0,0,1,1
+data/train/frame_2112.jpg,Allianz,1,0,200,474,322
+data/train/frame_2113.jpg,Allianz,1,0,400,474,522
+data/train/frame_2114.jpg,Allianz,1,200,0,674,122
+data/train/frame_2115.jpg,Allianz,1,200,200,674,322
+data/train/frame_2116.jpg,Allianz,1,200,400,674,522
+data/train/frame_2117.jpg,Allianz,1,400,0,874,122
+data/train/frame_2118.jpg,Allianz,1,400,200,874,322
+data/train/frame_2119.jpg,Allianz,1,400,400,874,522
+data/train/frame_2120.jpg,Allianz,1,0,0,474,122
+data/train/frame_2121.jpg,No finding,0,0,0,1,1
+data/train/frame_2122.jpg,Allianz,1,0,200,474,322
+data/train/frame_2123.jpg,Allianz,1,0,400,474,522
+data/train/frame_2124.jpg,Allianz,1,200,0,674,122
+data/train/frame_2125.jpg,Allianz,1,200,200,674,322
+data/train/frame_2126.jpg,Allianz,1,200,400,674,522
+data/train/frame_2127.jpg,Allianz,1,400,0,874,122
+data/train/frame_2128.jpg,Allianz,1,400,200,874,322
+data/train/frame_2129.jpg,Allianz,1,400,400,874,522
+data/train/frame_2130.jpg,Allianz,1,0,0,474,122
+data/train/frame_2131.jpg,No finding,0,0,0,1,1
+data/train/frame_2132.jpg,Allianz,1,0,200,474,322
+data/train/frame_2133.jpg,Allianz,1,0,400,474,522
+data/train/frame_2134.jpg,Allianz,1,200,0,674,122
+data/train/frame_2135.jpg,Allianz,1,200,200,674,322
+data/train/frame_2136.jpg,Allianz,1,200,400,674,522
+data/train/frame_2137.jpg,Allianz,1,400,0,874,122
+data/train/frame_2138.jpg,Allianz,1,400,200,874,322
+data/train/frame_2139.jpg,Allianz,1,400,400,874,522
+data/train/frame_2140.jpg,Allianz,1,0,0,474,122
+data/train/frame_2141.jpg,No finding,0,0,0,1,1
+data/train/frame_2142.jpg,Allianz,1,0,200,474,322
+data/train/frame_2143.jpg,Allianz,1,0,400,474,522
+data/train/frame_2144.jpg,Allianz,1,200,0,674,122
+data/train/frame_2145.jpg,Allianz,1,200,200,674,322
+data/train/frame_2146.jpg,Allianz,1,200,400,674,522
+data/train/frame_2147.jpg,Allianz,1,400,0,874,122
+data/train/frame_2148.jpg,Allianz,1,400,200,874,322
+data/train/frame_2149.jpg,Allianz,1,400,400,874,522
+data/train/frame_2150.jpg,Allianz,1,0,0,474,122
+data/train/frame_2151.jpg,No finding,0,0,0,1,1
+data/train/frame_2152.jpg,Allianz,1,0,200,474,322
+data/train/frame_2153.jpg,Allianz,1,0,400,474,522
+data/train/frame_2154.jpg,Allianz,1,200,0,674,122
+data/train/frame_2155.jpg,Allianz,1,200,200,674,322
+data/train/frame_2156.jpg,Allianz,1,200,400,674,522
+data/train/frame_2157.jpg,Allianz,1,400,0,874,122
+data/train/frame_2158.jpg,Allianz,1,400,200,874,322
+data/train/frame_2159.jpg,Allianz,1,400,400,874,522
+data/train/frame_2160.jpg,Allianz,1,0,0,474,122
+data/train/frame_2161.jpg,No finding,0,0,0,1,1
+data/train/frame_2162.jpg,Allianz,1,0,200,474,322
+data/train/frame_2163.jpg,Allianz,1,0,400,474,522
+data/train/frame_2164.jpg,Allianz,1,200,0,674,122
+data/train/frame_2165.jpg,Allianz,1,200,200,674,322
+data/train/frame_2166.jpg,Allianz,1,200,400,674,522
+data/train/frame_2167.jpg,Allianz,1,400,0,874,122
+data/train/frame_2168.jpg,Allianz,1,400,200,874,322
+data/train/frame_2169.jpg,Allianz,1,400,400,874,522
+data/train/frame_2170.jpg,Allianz,1,0,0,474,122
+data/train/frame_2171.jpg,No finding,0,0,0,1,1
+data/train/frame_2172.jpg,Allianz,1,0,200,474,322
+data/train/frame_2173.jpg,Allianz,1,0,400,474,522
+data/train/frame_2174.jpg,Allianz,1,200,0,674,122
+data/train/frame_2175.jpg,Allianz,1,200,200,674,322
+data/train/frame_2176.jpg,Allianz,1,200,400,674,522
+data/train/frame_2177.jpg,Allianz,1,400,0,874,122
+data/train/frame_2178.jpg,Allianz,1,400,200,874,322
+data/train/frame_2179.jpg,Allianz,1,400,400,874,522
+data/train/frame_2180.jpg,Allianz,1,0,0,474,122
+data/train/frame_2181.jpg,No finding,0,0,0,1,1
+data/train/frame_2182.jpg,Allianz,1,0,200,474,322
+data/train/frame_2183.jpg,Allianz,1,0,400,474,522
+data/train/frame_2184.jpg,Allianz,1,200,0,674,122
+data/train/frame_2185.jpg,Allianz,1,200,200,674,322
+data/train/frame_2186.jpg,Allianz,1,200,400,674,522
+data/train/frame_2187.jpg,Allianz,1,400,0,874,122
+data/train/frame_2188.jpg,Allianz,1,400,200,874,322
+data/train/frame_2189.jpg,Allianz,1,400,400,874,522
+data/train/frame_2190.jpg,Allianz,1,0,0,474,122
+data/train/frame_2191.jpg,No finding,0,0,0,1,1
+data/train/frame_2192.jpg,Allianz,1,0,200,474,322
+data/train/frame_2193.jpg,Allianz,1,0,400,474,522
+data/train/frame_2194.jpg,Allianz,1,200,0,674,122
+data/train/frame_2195.jpg,Allianz,1,200,200,674,322
+data/train/frame_2196.jpg,Allianz,1,200,400,674,522
+data/train/frame_2197.jpg,Allianz,1,400,0,874,122
+data/train/frame_2198.jpg,Allianz,1,400,200,874,322
+data/train/frame_2199.jpg,Allianz,1,400,400,874,522
+data/train/frame_2200.jpg,Allianz,1,0,0,475,123
+data/train/frame_2201.jpg,No finding,0,0,0,1,1
+data/train/frame_2202.jpg,Allianz,1,0,200,475,323
+data/train/frame_2203.jpg,Allianz,1,0,400,475,523
+data/train/frame_2204.jpg,Allianz,1,0,600,475,723
+data/train/frame_2205.jpg,Allianz,1,200,0,675,123
+data/train/frame_2206.jpg,Allianz,1,200,200,675,323
+data/train/frame_2207.jpg,Allianz,1,200,400,675,523
+data/train/frame_2208.jpg,Allianz,1,200,600,675,723
+data/train/frame_2209.jpg,Allianz,1,400,0,875,123
+data/train/frame_2210.jpg,Allianz,1,400,200,875,323
+data/train/frame_2211.jpg,No finding,0,0,0,1,1
+data/train/frame_2212.jpg,Allianz,1,400,400,875,523
+data/train/frame_2213.jpg,Allianz,1,400,600,875,723
+data/train/frame_2214.jpg,Allianz,1,0,0,475,123
+data/train/frame_2215.jpg,Allianz,1,0,200,475,323
+data/train/frame_2216.jpg,Allianz,1,0,400,475,523
+data/train/frame_2217.jpg,Allianz,1,0,600,475,723
+data/train/frame_2218.jpg,Allianz,1,200,0,675,123
+data/train/frame_2219.jpg,Allianz,1,200,200,675,323
+data/train/frame_2220.jpg,Allianz,1,200,400,675,523
+data/train/frame_2221.jpg,No finding,0,0,0,1,1
+data/train/frame_2222.jpg,Allianz,1,200,600,675,723
+data/train/frame_2223.jpg,Allianz,1,400,0,875,123
+data/train/frame_2224.jpg,Allianz,1,400,200,875,323
+data/train/frame_2225.jpg,Allianz,1,400,400,875,523
+data/train/frame_2226.jpg,Allianz,1,400,600,875,723
+data/train/frame_2227.jpg,Allianz,1,0,0,475,123
+data/train/frame_2228.jpg,Allianz,1,0,200,475,323
+data/train/frame_2229.jpg,Allianz,1,0,400,475,523
+data/train/frame_2230.jpg,Allianz,1,0,600,475,723
+data/train/frame_2231.jpg,No finding,0,0,0,1,1
+data/train/frame_2232.jpg,Allianz,1,200,0,675,123
+data/train/frame_2233.jpg,Allianz,1,200,200,675,323
+data/train/frame_2234.jpg,Allianz,1,200,400,675,523
+data/train/frame_2235.jpg,Allianz,1,200,600,675,723
+data/train/frame_2236.jpg,Allianz,1,400,0,875,123
+data/train/frame_2237.jpg,Allianz,1,400,200,875,323
+data/train/frame_2238.jpg,Allianz,1,400,400,875,523
+data/train/frame_2239.jpg,Allianz,1,400,600,875,723
+data/train/frame_2240.jpg,Allianz,1,0,0,475,123
+data/train/frame_2241.jpg,No finding,0,0,0,1,1
+data/train/frame_2242.jpg,Allianz,1,0,200,475,323
+data/train/frame_2243.jpg,Allianz,1,0,400,475,523
+data/train/frame_2244.jpg,Allianz,1,0,600,475,723
+data/train/frame_2245.jpg,Allianz,1,200,0,675,123
+data/train/frame_2246.jpg,Allianz,1,200,200,675,323
+data/train/frame_2247.jpg,Allianz,1,200,400,675,523
+data/train/frame_2248.jpg,Allianz,1,200,600,675,723
+data/train/frame_2249.jpg,Allianz,1,400,0,875,123
+data/train/frame_2250.jpg,Allianz,1,400,200,875,323
+data/train/frame_2251.jpg,No finding,0,0,0,1,1
+data/train/frame_2252.jpg,Allianz,1,400,400,875,523
+data/train/frame_2253.jpg,Allianz,1,400,600,875,723
+data/train/frame_2254.jpg,Allianz,1,0,0,475,123
+data/train/frame_2255.jpg,Allianz,1,0,200,475,323
+data/train/frame_2256.jpg,Allianz,1,0,400,475,523
+data/train/frame_2257.jpg,Allianz,1,0,600,475,723
+data/train/frame_2258.jpg,Allianz,1,200,0,675,123
+data/train/frame_2259.jpg,Allianz,1,200,200,675,323
+data/train/frame_2260.jpg,Allianz,1,200,400,675,523
+data/train/frame_2261.jpg,No finding,0,0,0,1,1
+data/train/frame_2262.jpg,Allianz,1,200,600,675,723
+data/train/frame_2263.jpg,Allianz,1,400,0,875,123
+data/train/frame_2264.jpg,Allianz,1,400,200,875,323
+data/train/frame_2265.jpg,Allianz,1,400,400,875,523
+data/train/frame_2266.jpg,Allianz,1,400,600,875,723
+data/train/frame_2267.jpg,Allianz,1,0,0,475,123
+data/train/frame_2268.jpg,Allianz,1,0,200,475,323
+data/train/frame_2269.jpg,Allianz,1,0,400,475,523
+data/train/frame_2270.jpg,Allianz,1,0,600,475,723
+data/train/frame_2271.jpg,No finding,0,0,0,1,1
+data/train/frame_2272.jpg,Allianz,1,200,0,675,123
+data/train/frame_2273.jpg,Allianz,1,200,200,675,323
+data/train/frame_2274.jpg,Allianz,1,200,400,675,523
+data/train/frame_2275.jpg,Allianz,1,200,600,675,723
+data/train/frame_2276.jpg,Allianz,1,400,0,875,123
+data/train/frame_2277.jpg,Allianz,1,400,200,875,323
+data/train/frame_2278.jpg,Allianz,1,400,400,875,523
+data/train/frame_2279.jpg,Allianz,1,400,600,875,723
+data/train/frame_2280.jpg,Allianz,1,0,0,475,123
+data/train/frame_2281.jpg,No finding,0,0,0,1,1
+data/train/frame_2282.jpg,Allianz,1,0,200,475,323
+data/train/frame_2283.jpg,Allianz,1,0,400,475,523
+data/train/frame_2284.jpg,Allianz,1,0,600,475,723
+data/train/frame_2285.jpg,Allianz,1,200,0,675,123
+data/train/frame_2286.jpg,Allianz,1,200,200,675,323
+data/train/frame_2287.jpg,Allianz,1,200,400,675,523
+data/train/frame_2288.jpg,Allianz,1,200,600,675,723
+data/train/frame_2289.jpg,Allianz,1,400,0,875,123
+data/train/frame_2290.jpg,Allianz,1,400,200,875,323
+data/train/frame_2291.jpg,No finding,0,0,0,1,1
+data/train/frame_2292.jpg,Allianz,1,400,400,875,523
+data/train/frame_2293.jpg,Allianz,1,400,600,875,723
+data/train/frame_2294.jpg,Allianz,1,0,0,475,123
+data/train/frame_2295.jpg,Allianz,1,0,200,475,323
+data/train/frame_2296.jpg,Allianz,1,0,400,475,523
+data/train/frame_2297.jpg,Allianz,1,0,600,475,723
+data/train/frame_2298.jpg,Allianz,1,200,0,675,123
+data/train/frame_2299.jpg,Allianz,1,200,200,675,323
+data/train/frame_2300.jpg,Allianz,1,200,400,675,523
+data/train/frame_2301.jpg,No finding,0,0,0,1,1
+data/train/frame_2302.jpg,Allianz,1,200,600,675,723
+data/train/frame_2303.jpg,Allianz,1,400,0,875,123
+data/train/frame_2304.jpg,Allianz,1,400,200,875,323
+data/train/frame_2305.jpg,Allianz,1,400,400,875,523
+data/train/frame_2306.jpg,Allianz,1,400,600,875,723
+data/train/frame_2307.jpg,Allianz,1,0,0,475,123
+data/train/frame_2308.jpg,Allianz,1,0,200,475,323
+data/train/frame_2309.jpg,Allianz,1,0,400,475,523
+data/train/frame_2310.jpg,Allianz,1,0,600,475,723
+data/train/frame_2311.jpg,No finding,0,0,0,1,1
+data/train/frame_2312.jpg,Allianz,1,200,0,675,123
+data/train/frame_2313.jpg,Allianz,1,200,200,675,323
+data/train/frame_2314.jpg,Allianz,1,200,400,675,523
+data/train/frame_2315.jpg,Allianz,1,200,600,675,723
+data/train/frame_2316.jpg,Allianz,1,400,0,875,123
+data/train/frame_2317.jpg,Allianz,1,400,200,875,323
+data/train/frame_2318.jpg,Allianz,1,400,400,875,523
+data/train/frame_2319.jpg,Allianz,1,400,600,875,723
+data/train/frame_2320.jpg,Allianz,1,0,0,475,123
+data/train/frame_2321.jpg,No finding,0,0,0,1,1
+data/train/frame_2322.jpg,Allianz,1,0,200,475,323
+data/train/frame_2323.jpg,Allianz,1,0,400,475,523
+data/train/frame_2324.jpg,Allianz,1,0,600,475,723
+data/train/frame_2325.jpg,Allianz,1,200,0,675,123
+data/train/frame_2326.jpg,Allianz,1,200,200,675,323
+data/train/frame_2327.jpg,Allianz,1,200,400,675,523
+data/train/frame_2328.jpg,Allianz,1,200,600,675,723
+data/train/frame_2329.jpg,Allianz,1,400,0,875,123
+data/train/frame_2330.jpg,Allianz,1,400,200,875,323
+data/train/frame_2331.jpg,No finding,0,0,0,1,1
+data/train/frame_2332.jpg,Allianz,1,400,400,875,523
+data/train/frame_2333.jpg,Allianz,1,400,600,875,723

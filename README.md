@@ -9,9 +9,8 @@ FasterRCNN
 2. Activate the virtual environment
 3. Copy the entire code with trained models from [Google drive](https://drive.google.com/file/d/12Dzx1yNaLZJZIFIfaHQvIIgohOckD9Hc/view?usp=sharing "Google drive") or clone this repository
 4. Change directory to be inside logo_detection
-
 `cd logo_detection`  
-5.  Install required packages
+5. Install required packages
 
 `pip3 --no-cache-dir install -r requirements.txt`
 

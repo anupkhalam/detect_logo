@@ -16,12 +16,8 @@ FasterRCNN
 
 # Training
 1. Trained model is available. You may skip to inferencing to save time.
-2. Run the following to generate training data
-
-`python3 data_generator.py`
-3. Run the following to start the training
-
-`python3 train.py`
+2. Run the following to generate training data `python3 data_generator.py`
+3. Run the following to start the training `python3 train.py`
 
 Note: There shall be atleast 7GB CUDA free memory. If not, reduce the batch-size accordingly.
 

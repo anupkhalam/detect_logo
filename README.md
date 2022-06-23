@@ -1,13 +1,13 @@
 # Objective
-The objective is to Identify logo of Allianz in an image.
+The objective is to identify logo of Allianz in an image.
 
 # Architecture
 FasterRCNN
 
 # Installation
-1.  Create a virtual environment
+1. Open a terminal and create a virtual environment
 2. Activate the virtual environment
-3. Copy the code from [Google drive](https://drive.google.com/file/d/12Dzx1yNaLZJZIFIfaHQvIIgohOckD9Hc/view?usp=sharing "Google drive") or clone this repository
+3. Copy the entire code with trained models from [Google drive](https://drive.google.com/file/d/12Dzx1yNaLZJZIFIfaHQvIIgohOckD9Hc/view?usp=sharing "Google drive") or clone this repository
 4. Change directory to be inside logo_detection
 
 `cd logo_detection`
